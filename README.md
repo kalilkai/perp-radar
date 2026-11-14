@@ -27,9 +27,9 @@ python3 build.py
 1. 打開倉庫的 Settings → Pages → Build and deployment，Source 選 **GitHub Actions**。
 2. 到 Actions 手動執行「每日更新頁面」，或等每天 00:30 UTC 的排程。
 
-工作流程會重新產生頁面。在 `main` 上會把快照與 `site/` 推回倉庫，再發布到 Pages。推回時使用 GitHub Actions 的預設提交身分。
+工作流程會重新產生頁面。只有在 `main` 上才會把快照與 `site/` 推回倉庫，再發布到 Pages。推回時使用 GitHub Actions 的預設提交身分。
 
-若執行環境連不到 `https://futures.ourbit.com`，這次工作流程會失敗，已發布的頁面維持原樣。改在可以連線的機器上執行：
+GitHub 託管的執行環境可以連上 `https://futures.ourbit.com`（全市場報價回 HTTP 200，並完成一次頁面產生）。每天的排程因此可以自己更新。若某次連線失敗，工作流程會停下來，已發布的頁面維持原樣。那時改在可以連線的機器上執行：
 
 ```bash
 python3 build.py && ./publish.sh
