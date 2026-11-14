@@ -1,0 +1,77 @@
+name: 每日更新頁面
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - cursor/perp-radar-site-60b7
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe market API
+        run: |
+          code=$(curl -sS -o /tmp/ob-ticker.json -w "%{http_code}" \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" \
+            -H "Accept: application/json" \
+            --max-time 40 \
+            "https://futures.ourbit.com/api/v1/contract/ticker")
+          echo "ticker_http=${code}"
+          test "${code}" = "200"
+          python3 -c 'import json; d=json.load(open("/tmp/ob-ticker.json")); assert d.get("success") is True and isinstance(d.get("data"), list) and len(d["data"]) > 100'
+
+      - name: Generate
+        run: python3 build.py
+
+      - name: Commit snapshot and site
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -C main
+          git add -- data/oi-snapshot.json site
+          if git diff --cached --quiet; then
+            echo "沒有變更"
+          else
+            git commit -m "更新每日合約數據"
+            git push origin HEAD:main
+          fi
+
+      - name: Upload Pages artifact
+        if: github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
