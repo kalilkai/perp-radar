@@ -11,9 +11,10 @@
     "2026-11-23",
     "2026-11-24",
     "2026-11-25",
-    "2026-11-26"
+    "2026-11-26",
+    "2026-11-27"
   ],
-  "generatedAt": "2026-11-26T16:43:21+08:00",
+  "generatedAt": "2026-11-27T16:54:39+08:00",
   "series": {
     "2026-11-15": {
       "0G_USDT": {
@@ -45737,6 +45738,3768 @@
         "contractSize": 0.01,
         "notional": 156937.69,
         "qty": 680.12
+      }
+    },
+    "2026-11-27": {
+      "0G_USDT": {
+        "contractSize": 1.0,
+        "notional": 167385.0,
+        "qty": 1559972.0
+      },
+      "1000000BABYDOGE_USDT": {
+        "contractSize": 100.0,
+        "notional": 105459.79,
+        "qty": 415850900.0
+      },
+      "1000000MOG_USDT": {
+        "contractSize": 1.0,
+        "notional": 137603.62,
+        "qty": 1631728.0
+      },
+      "1000BONK_USDT": {
+        "contractSize": 100.0,
+        "notional": 212790.36,
+        "qty": 96810900.0
+      },
+      "1000FLOKI_USDT": {
+        "contractSize": 10.0,
+        "notional": 157749.41,
+        "qty": 9356430.0
+      },
+      "1000LUNC_USDT": {
+        "contractSize": 10.0,
+        "notional": 132278.52,
+        "qty": 2875620.0
+      },
+      "1000PEPE_USDT": {
+        "contractSize": 1000.0,
+        "notional": 368356.35,
+        "qty": 102307000.0
+      },
+      "1000RATS_USDT": {
+        "contractSize": 10.0,
+        "notional": 128779.94,
+        "qty": 11457290.0
+      },
+      "1000XEC_USDT": {
+        "contractSize": 10.0,
+        "notional": 115991.1,
+        "qty": 22085130.0
+      },
+      "10Y_USDT": {
+        "contractSize": 0.1,
+        "notional": 27677.03,
+        "qty": 5597.2
+      },
+      "1INCH_USDT": {
+        "contractSize": 1.0,
+        "notional": 156773.22,
+        "qty": 2663946.0
+      },
+      "2Z_USDT": {
+        "contractSize": 1.0,
+        "notional": 131121.65,
+        "qty": 7557444.0
+      },
+      "4_USDT": {
+        "contractSize": 1.0,
+        "notional": 143941.99,
+        "qty": 17905460.0
+      },
+      "AAOI_USDT": {
+        "contractSize": 0.01,
+        "notional": 190988.4,
+        "qty": 4711.11
+      },
+      "AAPL_USDT": {
+        "contractSize": 0.01,
+        "notional": 132592.17,
+        "qty": 368.67
+      },
+      "AAVE_USDT": {
+        "contractSize": 0.01,
+        "notional": 95645.18,
+        "qty": 988.07
+      },
+      "ABBV_USDT": {
+        "contractSize": 0.001,
+        "notional": 112555.18,
+        "qty": 381.362
+      },
+      "ACE_USDT": {
+        "contractSize": 1.0,
+        "notional": 190700.68,
+        "qty": 2627817.0
+      },
+      "ACH_USDT": {
+        "contractSize": 10.0,
+        "notional": 102585.06,
+        "qty": 27261510.0
+      },
+      "ACN_USDT": {
+        "contractSize": 0.01,
+        "notional": 110058.86,
+        "qty": 453.72
+      },
+      "ACT_USDT": {
+        "contractSize": 10.0,
+        "notional": 192530.99,
+        "qty": 21238940.0
+      },
+      "ACU_USDT": {
+        "contractSize": 10.0,
+        "notional": 156896.22,
+        "qty": 1594960.0
+      },
+      "ADA_USDT": {
+        "contractSize": 1.0,
+        "notional": 359785.63,
+        "qty": 2353078.0
+      },
+      "ADBE_USDT": {
+        "contractSize": 0.01,
+        "notional": 138841.44,
+        "qty": 587.44
+      },
+      "AERO_USDT": {
+        "contractSize": 1.0,
+        "notional": 216312.1,
+        "qty": 530697.0
+      },
+      "AEVO_USDT": {
+        "contractSize": 10.0,
+        "notional": 103729.16,
+        "qty": 6371570.0
+      },
+      "AGLD_USDT": {
+        "contractSize": 1.0,
+        "notional": 120424.8,
+        "qty": 882233.0
+      },
+      "AGPU_USDT": {
+        "contractSize": 0.1,
+        "notional": 116587.38,
+        "qty": 16145.6
+      },
+      "AGT_USDT": {
+        "contractSize": 10.0,
+        "notional": 159413.59,
+        "qty": 10019710.0
+      },
+      "AIA_USDT": {
+        "contractSize": 1.0,
+        "notional": 188642.78,
+        "qty": 2858224.0
+      },
+      "AIGENSYN_USDT": {
+        "contractSize": 10.0,
+        "notional": 110439.05,
+        "qty": 7232420.0
+      },
+      "AIN_USDT": {
+        "contractSize": 10.0,
+        "notional": 150694.14,
+        "qty": 1525090.0
+      },
+      "AIO_USDT": {
+        "contractSize": 10.0,
+        "notional": 146687.86,
+        "qty": 5063440.0
+      },
+      "AIXBT_USDT": {
+        "contractSize": 10.0,
+        "notional": 111787.35,
+        "qty": 8706180.0
+      },
+      "AKAM_USDT": {
+        "contractSize": 0.001,
+        "notional": 129612.72,
+        "qty": 1428.082
+      },
+      "AKE_USDT": {
+        "contractSize": 1000.0,
+        "notional": 198765.26,
+        "qty": 180041000.0
+      },
+      "AKT_USDT": {
+        "contractSize": 1.0,
+        "notional": 162649.93,
+        "qty": 316378.0
+      },
+      "ALCHIP_USDT": {
+        "contractSize": 0.001,
+        "notional": 172503.98,
+        "qty": 1598.295
+      },
+      "ALCH_USDT": {
+        "contractSize": 10.0,
+        "notional": 102866.53,
+        "qty": 3414090.0
+      },
+      "ALGO_USDT": {
+        "contractSize": 10.0,
+        "notional": 120511.13,
+        "qty": 1460210.0
+      },
+      "ALICE_USDT": {
+        "contractSize": 1.0,
+        "notional": 127907.1,
+        "qty": 1276518.0
+      },
+      "ALLO_USDT": {
+        "contractSize": 1.0,
+        "notional": 150957.83,
+        "qty": 1235132.0
+      },
+      "ALT_USDT": {
+        "contractSize": 10.0,
+        "notional": 102237.73,
+        "qty": 22918120.0
+      },
+      "AMAT_USDT": {
+        "contractSize": 0.001,
+        "notional": 139308.14,
+        "qty": 423.751
+      },
+      "AMC_USDT": {
+        "contractSize": 1.0,
+        "notional": 150279.67,
+        "qty": 46354.0
+      },
+      "AMDL_USDT": {
+        "contractSize": 0.01,
+        "notional": 144799.53,
+        "qty": 4615.86
+      },
+      "AMD_USDT": {
+        "contractSize": 0.01,
+        "notional": 204226.7,
+        "qty": 475.2
+      },
+      "AMGN_USDT": {
+        "contractSize": 0.001,
+        "notional": 160681.99,
+        "qty": 339.328
+      },
+      "AMZN_USDT": {
+        "contractSize": 0.01,
+        "notional": 160415.53,
+        "qty": 634.53
+      },
+      "ANET_USDT": {
+        "contractSize": 0.001,
+        "notional": 120918.73,
+        "qty": 695.815
+      },
+      "ANIME_USDT": {
+        "contractSize": 100.0,
+        "notional": 116969.97,
+        "qty": 52265400.0
+      },
+      "ANKR_USDT": {
+        "contractSize": 10.0,
+        "notional": 125068.52,
+        "qty": 38708920.0
+      },
+      "ANT_USDT": {
+        "contractSize": 0.001,
+        "notional": 172238.17,
+        "qty": 1934.391
+      },
+      "APEX_USDT": {
+        "contractSize": 1.0,
+        "notional": 116434.31,
+        "qty": 896338.0
+      },
+      "APE_USDT": {
+        "contractSize": 1.0,
+        "notional": 144095.3,
+        "qty": 1968515.0
+      },
+      "API3_USDT": {
+        "contractSize": 1.0,
+        "notional": 124312.45,
+        "qty": 678932.0
+      },
+      "APLD_USDT": {
+        "contractSize": 0.01,
+        "notional": 122390.4,
+        "qty": 9167.82
+      },
+      "APR_USDT": {
+        "contractSize": 1.0,
+        "notional": 125111.65,
+        "qty": 3999733.0
+      },
+      "APT_USDT": {
+        "contractSize": 1.0,
+        "notional": 140665.88,
+        "qty": 358750.0
+      },
+      "ARB_USDT": {
+        "contractSize": 1.0,
+        "notional": 318558.77,
+        "qty": 2686446.0
+      },
+      "ARC_USDT": {
+        "contractSize": 10.0,
+        "notional": 191693.28,
+        "qty": 7230980.0
+      },
+      "ARKM_USDT": {
+        "contractSize": 1.0,
+        "notional": 101457.31,
+        "qty": 1401344.0
+      },
+      "ARM_USDT": {
+        "contractSize": 0.01,
+        "notional": 141125.62,
+        "qty": 811.86
+      },
+      "ARPA_USDT": {
+        "contractSize": 100.0,
+        "notional": 114678.87,
+        "qty": 14573500.0
+      },
+      "ARX_USDT": {
+        "contractSize": 1.0,
+        "notional": 142748.48,
+        "qty": 909226.0
+      },
+      "AR_USDT": {
+        "contractSize": 0.1,
+        "notional": 192324.64,
+        "qty": 83113.5
+      },
+      "ASML_USDT": {
+        "contractSize": 0.001,
+        "notional": 108089.99,
+        "qty": 79.992
+      },
+      "ASR_USDT": {
+        "contractSize": 1.0,
+        "notional": 125245.55,
+        "qty": 185494.0
+      },
+      "ASTER_USDT": {
+        "contractSize": 1.0,
+        "notional": 154730.13,
+        "qty": 304467.0
+      },
+      "ASTR_USDT": {
+        "contractSize": 10.0,
+        "notional": 109227.13,
+        "qty": 23555560.0
+      },
+      "ASTS_USDT": {
+        "contractSize": 0.01,
+        "notional": 140346.86,
+        "qty": 5156.02
+      },
+      "ATH_USDT": {
+        "contractSize": 10.0,
+        "notional": 121655.91,
+        "qty": 31880480.0
+      },
+      "ATOM_USDT": {
+        "contractSize": 1.0,
+        "notional": 121402.07,
+        "qty": 97826.0
+      },
+      "AT_USDT": {
+        "contractSize": 1.0,
+        "notional": 146986.48,
+        "qty": 2810449.0
+      },
+      "AUCTION_USDT": {
+        "contractSize": 0.1,
+        "notional": 110648.34,
+        "qty": 42394.0
+      },
+      "AUD_USDT": {
+        "contractSize": 1.0,
+        "notional": 491977.16,
+        "qty": 736052.0
+      },
+      "AVAX_USDT": {
+        "contractSize": 0.1,
+        "notional": 327601.49,
+        "qty": 48433.1
+      },
+      "AVA_USDT": {
+        "contractSize": 1.0,
+        "notional": 165255.31,
+        "qty": 770062.0
+      },
+      "AVC_USDT": {
+        "contractSize": 0.01,
+        "notional": 133158.08,
+        "qty": 1592.8
+      },
+      "AVGO_USDT": {
+        "contractSize": 0.01,
+        "notional": 134547.1,
+        "qty": 427.31
+      },
+      "AVNT_USDT": {
+        "contractSize": 1.0,
+        "notional": 124183.22,
+        "qty": 2011390.0
+      },
+      "AWE_USDT": {
+        "contractSize": 10.0,
+        "notional": 105515.39,
+        "qty": 1988980.0
+      },
+      "AXIS_USDT": {
+        "contractSize": 1.0,
+        "notional": 123828.6,
+        "qty": 1590605.0
+      },
+      "AXL_USDT": {
+        "contractSize": 1.0,
+        "notional": 114192.69,
+        "qty": 3437468.0
+      },
+      "AXS_USDT": {
+        "contractSize": 0.1,
+        "notional": 174539.87,
+        "qty": 267166.5
+      },
+      "AZTEC_USDT": {
+        "contractSize": 10.0,
+        "notional": 106177.23,
+        "qty": 12134540.0
+      },
+      "A_USDT": {
+        "contractSize": 1.0,
+        "notional": 192880.22,
+        "qty": 2966019.0
+      },
+      "B2_USDT": {
+        "contractSize": 1.0,
+        "notional": 142064.26,
+        "qty": 340600.0
+      },
+      "BABA_USDT": {
+        "contractSize": 0.01,
+        "notional": 250523.65,
+        "qty": 2778.04
+      },
+      "BABY_USDT": {
+        "contractSize": 10.0,
+        "notional": 178338.65,
+        "qty": 19085900.0
+      },
+      "BAC_USDT": {
+        "contractSize": 0.01,
+        "notional": 160224.05,
+        "qty": 3250.64
+      },
+      "BANANAS31_USDT": {
+        "contractSize": 1000.0,
+        "notional": 107358.91,
+        "qty": 21759000.0
+      },
+      "BANANA_USDT": {
+        "contractSize": 0.01,
+        "notional": 105061.54,
+        "qty": 41724.2
+      },
+      "BAND_USDT": {
+        "contractSize": 1.0,
+        "notional": 123769.3,
+        "qty": 789345.0
+      },
+      "BANK_USDT": {
+        "contractSize": 10.0,
+        "notional": 132294.4,
+        "qty": 8309950.0
+      },
+      "BAN_USDT": {
+        "contractSize": 10.0,
+        "notional": 141130.06,
+        "qty": 3210420.0
+      },
+      "BARD_USDT": {
+        "contractSize": 1.0,
+        "notional": 160952.34,
+        "qty": 1999408.0
+      },
+      "BASED_USDT": {
+        "contractSize": 1.0,
+        "notional": 177799.46,
+        "qty": 4622971.0
+      },
+      "BAS_USDT": {
+        "contractSize": 100.0,
+        "notional": 113896.58,
+        "qty": 9489800.0
+      },
+      "BAT_USDT": {
+        "contractSize": 1.0,
+        "notional": 126636.45,
+        "qty": 1615673.0
+      },
+      "BB_USDT": {
+        "contractSize": 10.0,
+        "notional": 129421.81,
+        "qty": 24793450.0
+      },
+      "BCH_USDT": {
+        "contractSize": 0.01,
+        "notional": 170811.47,
+        "qty": 803.97
+      },
+      "BEAM_USDT": {
+        "contractSize": 100.0,
+        "notional": 120532.1,
+        "qty": 37915100.0
+      },
+      "BEAT_USDT": {
+        "contractSize": 1.0,
+        "notional": 143117.74,
+        "qty": 2208948.0
+      },
+      "BEL_USDT": {
+        "contractSize": 1.0,
+        "notional": 119631.75,
+        "qty": 1414254.0
+      },
+      "BERA_USDT": {
+        "contractSize": 0.1,
+        "notional": 197805.6,
+        "qty": 2397643.6
+      },
+      "BE_USDT": {
+        "contractSize": 0.001,
+        "notional": 131074.72,
+        "qty": 789.369
+      },
+      "BGB_USDT": {
+        "contractSize": 0.1,
+        "notional": 172338.89,
+        "qty": 112639.8
+      },
+      "BHARTIARTL_USDT": {
+        "contractSize": 0.01,
+        "notional": 114227.77,
+        "qty": 5143.31
+      },
+      "BIANRENSHENG_USDT": {
+        "contractSize": 1.0,
+        "notional": 115266.11,
+        "qty": 254114.0
+      },
+      "BICO_USDT": {
+        "contractSize": 1.0,
+        "notional": 109373.7,
+        "qty": 10260197.0
+      },
+      "BIGTIME_USDT": {
+        "contractSize": 10.0,
+        "notional": 218188.5,
+        "qty": 34528960.0
+      },
+      "BILL_USDT": {
+        "contractSize": 10.0,
+        "notional": 122103.98,
+        "qty": 30579510.0
+      },
+      "BIO_USDT": {
+        "contractSize": 1.0,
+        "notional": 112294.26,
+        "qty": 7244791.0
+      },
+      "BIRB_USDT": {
+        "contractSize": 10.0,
+        "notional": 118868.59,
+        "qty": 2125310.0
+      },
+      "BITO_USDT": {
+        "contractSize": 0.1,
+        "notional": 144831.94,
+        "qty": 8847.4
+      },
+      "BIZLINK_USDT": {
+        "contractSize": 0.01,
+        "notional": 180128.61,
+        "qty": 3507.86
+      },
+      "BLACKBERRY_USDT": {
+        "contractSize": 0.1,
+        "notional": 191618.95,
+        "qty": 21620.1
+      },
+      "BLESS_USDT": {
+        "contractSize": 10.0,
+        "notional": 242238.48,
+        "qty": 14242620.0
+      },
+      "BLUAI_USDT": {
+        "contractSize": 10.0,
+        "notional": 132194.84,
+        "qty": 22243790.0
+      },
+      "BLUR_USDT": {
+        "contractSize": 10.0,
+        "notional": 120821.35,
+        "qty": 13063180.0
+      },
+      "BMNR_USDT": {
+        "contractSize": 0.1,
+        "notional": 157969.99,
+        "qty": 11148.2
+      },
+      "BMT_USDT": {
+        "contractSize": 10.0,
+        "notional": 103678.89,
+        "qty": 5756740.0
+      },
+      "BNB_USDT": {
+        "contractSize": 0.01,
+        "notional": 288826.25,
+        "qty": 511.55
+      },
+      "BNC_USDT": {
+        "contractSize": 1.0,
+        "notional": 109643.55,
+        "qty": 34885.0
+      },
+      "BNT_USDT": {
+        "contractSize": 1.0,
+        "notional": 113874.04,
+        "qty": 509048.0
+      },
+      "BOME_USDT": {
+        "contractSize": 100.0,
+        "notional": 200216.42,
+        "qty": 416683500.0
+      },
+      "BOTX_USDT": {
+        "contractSize": 0.01,
+        "notional": 131058.09,
+        "qty": 6575.92
+      },
+      "BRENTOIL_USDT": {
+        "contractSize": 0.01,
+        "notional": 866996.5,
+        "qty": 9376.99
+      },
+      "BRETT_USDT": {
+        "contractSize": 10.0,
+        "notional": 124812.73,
+        "qty": 39787290.0
+      },
+      "BREV_USDT": {
+        "contractSize": 1.0,
+        "notional": 136133.74,
+        "qty": 2308134.0
+      },
+      "BRL_USDT": {
+        "contractSize": 10.0,
+        "notional": 17485.55,
+        "qty": 97250.0
+      },
+      "BROCCOLI_USDT": {
+        "contractSize": 10.0,
+        "notional": 108851.25,
+        "qty": 7596570.0
+      },
+      "BR_USDT": {
+        "contractSize": 10.0,
+        "notional": 189032.86,
+        "qty": 483460.0
+      },
+      "BSB_USDT": {
+        "contractSize": 1.0,
+        "notional": 157274.89,
+        "qty": 2190153.0
+      },
+      "BSV_USDT": {
+        "contractSize": 0.01,
+        "notional": 123043.74,
+        "qty": 8433.43
+      },
+      "BTC_USDT": {
+        "contractSize": 0.0001,
+        "notional": 5510814.59,
+        "qty": 89.3144
+      },
+      "BTR_USDT": {
+        "contractSize": 1.0,
+        "notional": 138496.77,
+        "qty": 3678533.0
+      },
+      "BTW_USDT": {
+        "contractSize": 100.0,
+        "notional": 184070.4,
+        "qty": 192000.0
+      },
+      "BWET_USDT": {
+        "contractSize": 0.001,
+        "notional": 186915.41,
+        "qty": 223.1
+      },
+      "BX_USDT": {
+        "contractSize": 0.01,
+        "notional": 172592.59,
+        "qty": 1422.74
+      },
+      "BYD_USDT": {
+        "contractSize": 0.1,
+        "notional": 94825.43,
+        "qty": 12533.1
+      },
+      "B_USDT": {
+        "contractSize": 10.0,
+        "notional": 126597.5,
+        "qty": 1286560.0
+      },
+      "C98_USDT": {
+        "contractSize": 10.0,
+        "notional": 109010.88,
+        "qty": 12112320.0
+      },
+      "CAKE_USDT": {
+        "contractSize": 1.0,
+        "notional": 159164.29,
+        "qty": 99752.0
+      },
+      "CAP_USDT": {
+        "contractSize": 10.0,
+        "notional": 160555.64,
+        "qty": 1724180.0
+      },
+      "CARV_USDT": {
+        "contractSize": 1.0,
+        "notional": 115160.46,
+        "qty": 4704267.0
+      },
+      "CASHCAT_USDT": {
+        "contractSize": 10.0,
+        "notional": 126624.67,
+        "qty": 2564810.0
+      },
+      "CATI_USDT": {
+        "contractSize": 1.0,
+        "notional": 153941.96,
+        "qty": 4298854.0
+      },
+      "CATSTOCK_USDT": {
+        "contractSize": 0.001,
+        "notional": 110456.79,
+        "qty": 196.42
+      },
+      "CAT_USDT": {
+        "contractSize": 10000.0,
+        "notional": 99733.51,
+        "qty": 74151310000.0
+      },
+      "CBRS_USDT": {
+        "contractSize": 0.001,
+        "notional": 147572.24,
+        "qty": 1554.865
+      },
+      "CC_USDT": {
+        "contractSize": 1.0,
+        "notional": 149908.51,
+        "qty": 1960870.0
+      },
+      "CEG_USDT": {
+        "contractSize": 0.001,
+        "notional": 101377.96,
+        "qty": 416.405
+      },
+      "CELO_USDT": {
+        "contractSize": 1.0,
+        "notional": 149522.61,
+        "qty": 2459658.0
+      },
+      "CELR_USDT": {
+        "contractSize": 1.0,
+        "notional": 122909.31,
+        "qty": 64451658.0
+      },
+      "CETUS_USDT": {
+        "contractSize": 10.0,
+        "notional": 111234.03,
+        "qty": 7080460.0
+      },
+      "CFG_USDT": {
+        "contractSize": 10.0,
+        "notional": 182040.84,
+        "qty": 3318280.0
+      },
+      "CFX_USDT": {
+        "contractSize": 1.0,
+        "notional": 204527.57,
+        "qty": 5961165.0
+      },
+      "CGPT_USDT": {
+        "contractSize": 10.0,
+        "notional": 117465.31,
+        "qty": 9077690.0
+      },
+      "CHEEMS_USDT": {
+        "contractSize": 10000000.0,
+        "notional": 121754.35,
+        "qty": 402760000000.0
+      },
+      "CHILLGUY_USDT": {
+        "contractSize": 10.0,
+        "notional": 132957.03,
+        "qty": 17739430.0
+      },
+      "CHIP_USDT": {
+        "contractSize": 10.0,
+        "notional": 160823.34,
+        "qty": 5613380.0
+      },
+      "CHR_USDT": {
+        "contractSize": 10.0,
+        "notional": 110284.26,
+        "qty": 8157120.0
+      },
+      "CHZ_USDT": {
+        "contractSize": 10.0,
+        "notional": 210106.74,
+        "qty": 22862540.0
+      },
+      "CIEN_USDT": {
+        "contractSize": 0.001,
+        "notional": 122028.36,
+        "qty": 473.492
+      },
+      "CKB_USDT": {
+        "contractSize": 500.0,
+        "notional": 156531.07,
+        "qty": 184501500.0
+      },
+      "CLANKER_USDT": {
+        "contractSize": 0.01,
+        "notional": 170832.36,
+        "qty": 16116.26
+      },
+      "CLO_USDT": {
+        "contractSize": 1.0,
+        "notional": 137315.15,
+        "qty": 4461181.0
+      },
+      "COAI_USDT": {
+        "contractSize": 1.0,
+        "notional": 190635.02,
+        "qty": 1126019.0
+      },
+      "COHR_USDT": {
+        "contractSize": 0.001,
+        "notional": 179131.56,
+        "qty": 837.259
+      },
+      "COIN_USDT": {
+        "contractSize": 0.01,
+        "notional": 121413.18,
+        "qty": 1115.93
+      },
+      "COLLECT_USDT": {
+        "contractSize": 10.0,
+        "notional": 121367.99,
+        "qty": 4196680.0
+      },
+      "COMP_USDT": {
+        "contractSize": 0.01,
+        "notional": 138232.66,
+        "qty": 7591.03
+      },
+      "COOKIE_USDT": {
+        "contractSize": 1.0,
+        "notional": 180987.67,
+        "qty": 23453113.0
+      },
+      "COPPER_USDT": {
+        "contractSize": 0.1,
+        "notional": 120068.62,
+        "qty": 20961.7
+      },
+      "CORE_USDT": {
+        "contractSize": 1.0,
+        "notional": 135833.03,
+        "qty": 14193629.0
+      },
+      "COST_USDT": {
+        "contractSize": 0.001,
+        "notional": 154359.66,
+        "qty": 142.326
+      },
+      "COTI_USDT": {
+        "contractSize": 10.0,
+        "notional": 150872.58,
+        "qty": 17789480.0
+      },
+      "COW_USDT": {
+        "contractSize": 1.0,
+        "notional": 128839.39,
+        "qty": 1281984.0
+      },
+      "CRCL_USDT": {
+        "contractSize": 0.01,
+        "notional": 193858.99,
+        "qty": 3811.62
+      },
+      "CRDO_USDT": {
+        "contractSize": 0.01,
+        "notional": 124799.77,
+        "qty": 1083.99
+      },
+      "CRML_USDT": {
+        "contractSize": 0.1,
+        "notional": 101122.95,
+        "qty": 33831.7
+      },
+      "CRM_USDT": {
+        "contractSize": 0.01,
+        "notional": 102024.05,
+        "qty": 505.52
+      },
+      "CROSS_USDT": {
+        "contractSize": 1.0,
+        "notional": 154999.73,
+        "qty": 1245578.0
+      },
+      "CRO_USDT": {
+        "contractSize": 10.0,
+        "notional": 153563.6,
+        "qty": 3819990.0
+      },
+      "CRV_USDT": {
+        "contractSize": 10.0,
+        "notional": 222218.61,
+        "qty": 1245620.0
+      },
+      "CRWD_USDT": {
+        "contractSize": 0.001,
+        "notional": 112972.29,
+        "qty": 517.794
+      },
+      "CRWV_USDT": {
+        "contractSize": 0.01,
+        "notional": 129267.42,
+        "qty": 2808.94
+      },
+      "CSCO_USDT": {
+        "contractSize": 0.01,
+        "notional": 124423.7,
+        "qty": 1288.03
+      },
+      "CSOPSAMSUNG2L_USDT": {
+        "contractSize": 0.1,
+        "notional": 120268.58,
+        "qty": 31328.1
+      },
+      "CSOPSKHYNIX2L_USDT": {
+        "contractSize": 1.0,
+        "notional": 129956.37,
+        "qty": 79097.0
+      },
+      "CTK_USDT": {
+        "contractSize": 1.0,
+        "notional": 119107.91,
+        "qty": 1665379.0
+      },
+      "CTR_USDT": {
+        "contractSize": 10.0,
+        "notional": 171086.31,
+        "qty": 10608030.0
+      },
+      "CTSI_USDT": {
+        "contractSize": 1.0,
+        "notional": 109867.82,
+        "qty": 5359406.0
+      },
+      "CT_USDT": {
+        "contractSize": 1.0,
+        "notional": 147996.68,
+        "qty": 1091743.0
+      },
+      "CVC_USDT": {
+        "contractSize": 1.0,
+        "notional": 137041.6,
+        "qty": 7297210.0
+      },
+      "CVNA_USDT": {
+        "contractSize": 0.01,
+        "notional": 182040.95,
+        "qty": 2621.18
+      },
+      "CVXSTOCK_USDT": {
+        "contractSize": 0.001,
+        "notional": 156391.38,
+        "qty": 738.601
+      },
+      "CVX_USDT": {
+        "contractSize": 1.0,
+        "notional": 111024.81,
+        "qty": 94893.0
+      },
+      "CXMT_USDT": {
+        "contractSize": 0.1,
+        "notional": 137480.24,
+        "qty": 25005.5
+      },
+      "CYBER_USDT": {
+        "contractSize": 1.0,
+        "notional": 187378.85,
+        "qty": 885952.0
+      },
+      "CYPH_USDT": {
+        "contractSize": 0.1,
+        "notional": 163560.87,
+        "qty": 97473.7
+      },
+      "CYS_USDT": {
+        "contractSize": 1.0,
+        "notional": 202614.68,
+        "qty": 3902440.0
+      },
+      "C_USDT": {
+        "contractSize": 1.0,
+        "notional": 112381.61,
+        "qty": 1745327.0
+      },
+      "DASH_USDT": {
+        "contractSize": 0.01,
+        "notional": 290538.27,
+        "qty": 7865.14
+      },
+      "DATA_USDT": {
+        "contractSize": 10.0,
+        "notional": 133607.59,
+        "qty": 1609730.0
+      },
+      "DEEP_USDT": {
+        "contractSize": 100.0,
+        "notional": 108311.94,
+        "qty": 8951400.0
+      },
+      "DELL_USDT": {
+        "contractSize": 0.01,
+        "notional": 181520.85,
+        "qty": 575.07
+      },
+      "DELTAELEC_USDT": {
+        "contractSize": 0.01,
+        "notional": 147029.07,
+        "qty": 4359.0
+      },
+      "DEXE_USDT": {
+        "contractSize": 0.1,
+        "notional": 128119.45,
+        "qty": 114699.6
+      },
+      "DIA_USDT": {
+        "contractSize": 1.0,
+        "notional": 112400.05,
+        "qty": 942163.0
+      },
+      "DIS_USDT": {
+        "contractSize": 0.01,
+        "notional": 139368.64,
+        "qty": 1102.6
+      },
+      "DJT_USDT": {
+        "contractSize": 0.1,
+        "notional": 119303.78,
+        "qty": 31109.2
+      },
+      "DNA_USDT": {
+        "contractSize": 1.0,
+        "notional": 167497.19,
+        "qty": 1220825.0
+      },
+      "DODO_USDT": {
+        "contractSize": 1.0,
+        "notional": 182647.91,
+        "qty": 4625520.0
+      },
+      "DOGE_USDT": {
+        "contractSize": 100.0,
+        "notional": 408340.48,
+        "qty": 7023400.0
+      },
+      "DOLO_USDT": {
+        "contractSize": 1.0,
+        "notional": 127688.57,
+        "qty": 7125478.0
+      },
+      "DOOD_USDT": {
+        "contractSize": 100.0,
+        "notional": 153602.68,
+        "qty": 112364800.0
+      },
+      "DOS_USDT": {
+        "contractSize": 1.0,
+        "notional": 169714.64,
+        "qty": 2161970.0
+      },
+      "DOT_USDT": {
+        "contractSize": 0.1,
+        "notional": 128482.66,
+        "qty": 187292.5
+      },
+      "DRAM_USDT": {
+        "contractSize": 0.01,
+        "notional": 167496.27,
+        "qty": 4488.11
+      },
+      "DRIFT_USDT": {
+        "contractSize": 10.0,
+        "notional": 106922.51,
+        "qty": 11559190.0
+      },
+      "DRV_USDT": {
+        "contractSize": 1.0,
+        "notional": 153693.33,
+        "qty": 400974.0
+      },
+      "DUSK_USDT": {
+        "contractSize": 10.0,
+        "notional": 139736.58,
+        "qty": 2164110.0
+      },
+      "DYDX_USDT": {
+        "contractSize": 1.0,
+        "notional": 203283.38,
+        "qty": 2789289.0
+      },
+      "DYM_USDT": {
+        "contractSize": 1.0,
+        "notional": 101504.57,
+        "qty": 8811161.0
+      },
+      "EBAY_USDT": {
+        "contractSize": 0.01,
+        "notional": 193765.85,
+        "qty": 1662.37
+      },
+      "EDEN_USDT": {
+        "contractSize": 1.0,
+        "notional": 120761.25,
+        "qty": 2824164.0
+      },
+      "EDGEX_USDT": {
+        "contractSize": 1.0,
+        "notional": 147420.72,
+        "qty": 560322.0
+      },
+      "EDU_USDT": {
+        "contractSize": 1.0,
+        "notional": 168045.65,
+        "qty": 3511192.0
+      },
+      "EGLD_USDT": {
+        "contractSize": 0.1,
+        "notional": 142225.29,
+        "qty": 60290.5
+      },
+      "EIDO_USDT": {
+        "contractSize": 0.01,
+        "notional": 153674.85,
+        "qty": 14358.11
+      },
+      "EIGEN_USDT": {
+        "contractSize": 1.0,
+        "notional": 136853.52,
+        "qty": 1196272.0
+      },
+      "ELITEMAT_USDT": {
+        "contractSize": 0.001,
+        "notional": 143147.79,
+        "qty": 1317.513
+      },
+      "ELSA_USDT": {
+        "contractSize": 10.0,
+        "notional": 176759.47,
+        "qty": 1879820.0
+      },
+      "ENA_USDT": {
+        "contractSize": 10.0,
+        "notional": 197489.15,
+        "qty": 1854010.0
+      },
+      "ENJ_USDT": {
+        "contractSize": 1.0,
+        "notional": 203846.31,
+        "qty": 10644716.0
+      },
+      "ENSO_USDT": {
+        "contractSize": 1.0,
+        "notional": 192176.71,
+        "qty": 496709.0
+      },
+      "ENS_USDT": {
+        "contractSize": 0.1,
+        "notional": 170394.32,
+        "qty": 47239.9
+      },
+      "EQT_USDT": {
+        "contractSize": 0.01,
+        "notional": 128689.28,
+        "qty": 2487.23
+      },
+      "ERA_USDT": {
+        "contractSize": 1.0,
+        "notional": 147497.44,
+        "qty": 1978769.0
+      },
+      "ESPORTS_USDT": {
+        "contractSize": 10.0,
+        "notional": 140019.84,
+        "qty": 13738210.0
+      },
+      "ESP_USDT": {
+        "contractSize": 10.0,
+        "notional": 104474.5,
+        "qty": 1552370.0
+      },
+      "ETC_USDT": {
+        "contractSize": 0.1,
+        "notional": 183922.02,
+        "qty": 30715.1
+      },
+      "ETHFI_USDT": {
+        "contractSize": 1.0,
+        "notional": 217640.26,
+        "qty": 481505.0
+      },
+      "ETHW_USDT": {
+        "contractSize": 1.0,
+        "notional": 99428.68,
+        "qty": 595025.0
+      },
+      "ETH_USDT": {
+        "contractSize": 0.01,
+        "notional": 2592989.69,
+        "qty": 1498.76
+      },
+      "EUL_USDT": {
+        "contractSize": 0.1,
+        "notional": 109865.62,
+        "qty": 145729.7
+      },
+      "EUR_USDT": {
+        "contractSize": 1.0,
+        "notional": 118112.3,
+        "qty": 107590.0
+      },
+      "EVAA_USDT": {
+        "contractSize": 0.1,
+        "notional": 217516.34,
+        "qty": 102404.0
+      },
+      "EWJ_USDT": {
+        "contractSize": 0.01,
+        "notional": 160134.57,
+        "qty": 1806.98
+      },
+      "EWT_USDT": {
+        "contractSize": 0.01,
+        "notional": 130162.38,
+        "qty": 1494.23
+      },
+      "EWY_USDT": {
+        "contractSize": 0.01,
+        "notional": 103841.42,
+        "qty": 767.15
+      },
+      "EWZS_USDT": {
+        "contractSize": 0.01,
+        "notional": 127908.32,
+        "qty": 11027.53
+      },
+      "FARTCOIN_USDT": {
+        "contractSize": 10.0,
+        "notional": 136426.93,
+        "qty": 1641720.0
+      },
+      "FET_USDT": {
+        "contractSize": 1.0,
+        "notional": 211862.54,
+        "qty": 1661667.0
+      },
+      "FF_USDT": {
+        "contractSize": 1.0,
+        "notional": 145049.92,
+        "qty": 1422058.0
+      },
+      "FHE_USDT": {
+        "contractSize": 10.0,
+        "notional": 118004.02,
+        "qty": 7564360.0
+      },
+      "FIDA_USDT": {
+        "contractSize": 10.0,
+        "notional": 119344.88,
+        "qty": 9068760.0
+      },
+      "FIL_USDT": {
+        "contractSize": 1.0,
+        "notional": 140085.79,
+        "qty": 255631.0
+      },
+      "FLNC_USDT": {
+        "contractSize": 0.1,
+        "notional": 198357.3,
+        "qty": 39348.8
+      },
+      "FLOCK_USDT": {
+        "contractSize": 1.0,
+        "notional": 136304.3,
+        "qty": 4502950.0
+      },
+      "FLOW_USDT": {
+        "contractSize": 1.0,
+        "notional": 115098.31,
+        "qty": 7740303.0
+      },
+      "FLR_USDT": {
+        "contractSize": 10.0,
+        "notional": 134046.8,
+        "qty": 26252800.0
+      },
+      "FLUID_USDT": {
+        "contractSize": 0.1,
+        "notional": 102927.09,
+        "qty": 66063.6
+      },
+      "FLUX_USDT": {
+        "contractSize": 1.0,
+        "notional": 117233.58,
+        "qty": 2245854.0
+      },
+      "FOGO_USDT": {
+        "contractSize": 10.0,
+        "notional": 125317.34,
+        "qty": 80902090.0
+      },
+      "FOLKS_USDT": {
+        "contractSize": 0.1,
+        "notional": 190861.65,
+        "qty": 78770.8
+      },
+      "FORM_USDT": {
+        "contractSize": 1.0,
+        "notional": 154951.76,
+        "qty": 908808.0
+      },
+      "FRHC_USDT": {
+        "contractSize": 0.001,
+        "notional": 150812.79,
+        "qty": 861.246
+      },
+      "FUTU_USDT": {
+        "contractSize": 0.01,
+        "notional": 100044.04,
+        "qty": 1088.5
+      },
+      "F_USDT": {
+        "contractSize": 10.0,
+        "notional": 108460.11,
+        "qty": 47611990.0
+      },
+      "GALA_USDT": {
+        "contractSize": 100.0,
+        "notional": 167096.69,
+        "qty": 121260300.0
+      },
+      "GAS_USDT": {
+        "contractSize": 0.1,
+        "notional": 101460.65,
+        "qty": 104276.1
+      },
+      "GENIUS_USDT": {
+        "contractSize": 1.0,
+        "notional": 111922.97,
+        "qty": 405665.0
+      },
+      "GIGADEV_USDT": {
+        "contractSize": 0.01,
+        "notional": 107380.08,
+        "qty": 3490.9
+      },
+      "GIGGLE_USDT": {
+        "contractSize": 0.1,
+        "notional": 121882.86,
+        "qty": 5722.2
+      },
+      "GLM_USDT": {
+        "contractSize": 1.0,
+        "notional": 127313.34,
+        "qty": 1330616.0
+      },
+      "GLOBALWFR_USDT": {
+        "contractSize": 0.01,
+        "notional": 119025.65,
+        "qty": 7664.24
+      },
+      "GLW_USDT": {
+        "contractSize": 0.01,
+        "notional": 134924.02,
+        "qty": 1270.83
+      },
+      "GMEX_USDT": {
+        "contractSize": 0.1,
+        "notional": 141042.54,
+        "qty": 5218.0
+      },
+      "GMT_USDT": {
+        "contractSize": 1.0,
+        "notional": 126353.39,
+        "qty": 23957791.0
+      },
+      "GMX_USDT": {
+        "contractSize": 0.1,
+        "notional": 198571.78,
+        "qty": 23866.8
+      },
+      "GOAT_USDT": {
+        "contractSize": 10.0,
+        "notional": 117654.52,
+        "qty": 10338710.0
+      },
+      "GOLDCIR_USDT": {
+        "contractSize": 0.01,
+        "notional": 173078.17,
+        "qty": 6150.61
+      },
+      "GOOGL_USDT": {
+        "contractSize": 0.01,
+        "notional": 206621.92,
+        "qty": 732.52
+      },
+      "GPRO_USDT": {
+        "contractSize": 1.0,
+        "notional": 120495.8,
+        "qty": 210657.0
+      },
+      "GPS_USDT": {
+        "contractSize": 10.0,
+        "notional": 167651.39,
+        "qty": 17440070.0
+      },
+      "GRAM_USDT": {
+        "contractSize": 1.0,
+        "notional": 258571.36,
+        "qty": 261368.0
+      },
+      "GRASS_USDT": {
+        "contractSize": 1.0,
+        "notional": 150361.45,
+        "qty": 383673.0
+      },
+      "GRIFFAIN_USDT": {
+        "contractSize": 10.0,
+        "notional": 136462.76,
+        "qty": 13497800.0
+      },
+      "GRT_USDT": {
+        "contractSize": 10.0,
+        "notional": 156474.87,
+        "qty": 9264350.0
+      },
+      "GRVT_USDT": {
+        "contractSize": 1.0,
+        "notional": 115799.45,
+        "qty": 883291.0
+      },
+      "GS_USDT": {
+        "contractSize": 0.001,
+        "notional": 98502.42,
+        "qty": 120.207
+      },
+      "GTC_USDT": {
+        "contractSize": 1.0,
+        "notional": 135614.16,
+        "qty": 1090672.0
+      },
+      "GTLB_USDT": {
+        "contractSize": 0.01,
+        "notional": 107981.31,
+        "qty": 2339.79
+      },
+      "GT_USDT": {
+        "contractSize": 0.1,
+        "notional": 118738.5,
+        "qty": 17021.0
+      },
+      "GUN_USDT": {
+        "contractSize": 10.0,
+        "notional": 116597.61,
+        "qty": 84064610.0
+      },
+      "GWEI_USDT": {
+        "contractSize": 10.0,
+        "notional": 109403.02,
+        "qty": 10611350.0
+      },
+      "G_USDT": {
+        "contractSize": 10.0,
+        "notional": 158760.42,
+        "qty": 55803310.0
+      },
+      "HAEDAL_USDT": {
+        "contractSize": 1.0,
+        "notional": 215429.0,
+        "qty": 8317722.0
+      },
+      "HAJIMI_USDT": {
+        "contractSize": 1.0,
+        "notional": 130948.49,
+        "qty": 10715916.0
+      },
+      "HANMI_USDT": {
+        "contractSize": 0.01,
+        "notional": 105135.97,
+        "qty": 881.2
+      },
+      "HBAR_USDT": {
+        "contractSize": 1.0,
+        "notional": 212006.32,
+        "qty": 3833749.0
+      },
+      "HEI_USDT": {
+        "contractSize": 1.0,
+        "notional": 130698.53,
+        "qty": 1704467.0
+      },
+      "HEMI_USDT": {
+        "contractSize": 100.0,
+        "notional": 118722.95,
+        "qty": 35878800.0
+      },
+      "HIMS_USDT": {
+        "contractSize": 0.1,
+        "notional": 112841.02,
+        "qty": 7332.1
+      },
+      "HIVE_USDT": {
+        "contractSize": 1.0,
+        "notional": 123549.41,
+        "qty": 3369223.0
+      },
+      "HK0992_USDT": {
+        "contractSize": 0.01,
+        "notional": 131614.46,
+        "qty": 7152.96
+      },
+      "HMSTR_USDT": {
+        "contractSize": 100.0,
+        "notional": 124071.6,
+        "qty": 995759200.0
+      },
+      "HNT_USDT": {
+        "contractSize": 0.1,
+        "notional": 118180.78,
+        "qty": 512714.9
+      },
+      "HOLO_USDT": {
+        "contractSize": 1.0,
+        "notional": 106114.36,
+        "qty": 2584373.0
+      },
+      "HOME_USDT": {
+        "contractSize": 10.0,
+        "notional": 127923.1,
+        "qty": 30071250.0
+      },
+      "HOOD_USDT": {
+        "contractSize": 0.01,
+        "notional": 139164.69,
+        "qty": 1999.78
+      },
+      "HOT_USDT": {
+        "contractSize": 100.0,
+        "notional": 138643.71,
+        "qty": 434075500.0
+      },
+      "HUMA_USDT": {
+        "contractSize": 10.0,
+        "notional": 113700.12,
+        "qty": 16452050.0
+      },
+      "HUT_USDT": {
+        "contractSize": 0.01,
+        "notional": 116933.52,
+        "qty": 2217.59
+      },
+      "HYPER_USDT": {
+        "contractSize": 1.0,
+        "notional": 114218.5,
+        "qty": 2778363.0
+      },
+      "HYPE_USDT": {
+        "contractSize": 0.1,
+        "notional": 468386.98,
+        "qty": 7146.8
+      },
+      "HYUNDAI_USDT": {
+        "contractSize": 0.01,
+        "notional": 131040.26,
+        "qty": 650.97
+      },
+      "H_USDT": {
+        "contractSize": 10.0,
+        "notional": 161110.41,
+        "qty": 13829220.0
+      },
+      "IBKR_USDT": {
+        "contractSize": 0.01,
+        "notional": 114350.71,
+        "qty": 1485.46
+      },
+      "IBM_USDT": {
+        "contractSize": 0.01,
+        "notional": 158557.19,
+        "qty": 642.27
+      },
+      "ICNT_USDT": {
+        "contractSize": 1.0,
+        "notional": 198885.15,
+        "qty": 687708.0
+      },
+      "ICP_USDT": {
+        "contractSize": 0.1,
+        "notional": 187466.22,
+        "qty": 92257.0
+      },
+      "IDOL_USDT": {
+        "contractSize": 10.0,
+        "notional": 186352.37,
+        "qty": 10981930.0
+      },
+      "ID_USDT": {
+        "contractSize": 1.0,
+        "notional": 111677.4,
+        "qty": 5113434.0
+      },
+      "ILV_USDT": {
+        "contractSize": 0.01,
+        "notional": 118259.33,
+        "qty": 50603.05
+      },
+      "IMX_USDT": {
+        "contractSize": 1.0,
+        "notional": 114908.7,
+        "qty": 1222433.0
+      },
+      "INIT_USDT": {
+        "contractSize": 1.0,
+        "notional": 159420.83,
+        "qty": 1216303.0
+      },
+      "INJ_USDT": {
+        "contractSize": 0.1,
+        "notional": 888497.39,
+        "qty": 136818.2
+      },
+      "INTC_USDT": {
+        "contractSize": 0.01,
+        "notional": 134793.12,
+        "qty": 2345.86
+      },
+      "INTW_USDT": {
+        "contractSize": 0.1,
+        "notional": 140421.4,
+        "qty": 26716.4
+      },
+      "INX_USDT": {
+        "contractSize": 10.0,
+        "notional": 177289.88,
+        "qty": 40440210.0
+      },
+      "IN_USDT": {
+        "contractSize": 10.0,
+        "notional": 108560.26,
+        "qty": 4887900.0
+      },
+      "IONQ_USDT": {
+        "contractSize": 0.01,
+        "notional": 111551.75,
+        "qty": 4494.43
+      },
+      "IOST_USDT": {
+        "contractSize": 100.0,
+        "notional": 132884.76,
+        "qty": 213469500.0
+      },
+      "IOTA_USDT": {
+        "contractSize": 1.0,
+        "notional": 157969.39,
+        "qty": 4824966.0
+      },
+      "IOTX_USDT": {
+        "contractSize": 10.0,
+        "notional": 142414.39,
+        "qty": 58848920.0
+      },
+      "IO_USDT": {
+        "contractSize": 1.0,
+        "notional": 130343.45,
+        "qty": 1279131.0
+      },
+      "IREN_USDT": {
+        "contractSize": 0.01,
+        "notional": 124027.06,
+        "qty": 8777.57
+      },
+      "IRYS_USDT": {
+        "contractSize": 10.0,
+        "notional": 145263.82,
+        "qty": 9153360.0
+      },
+      "ITC_USDT": {
+        "contractSize": 0.1,
+        "notional": 123887.09,
+        "qty": 37793.5
+      },
+      "IWM_USDT": {
+        "contractSize": 0.01,
+        "notional": 110790.81,
+        "qty": 406.08
+      },
+      "JASMY_USDT": {
+        "contractSize": 100.0,
+        "notional": 163846.38,
+        "qty": 51362500.0
+      },
+      "JCT_USDT": {
+        "contractSize": 100.0,
+        "notional": 155836.63,
+        "qty": 102930400.0
+      },
+      "JD_USDT": {
+        "contractSize": 0.01,
+        "notional": 105363.43,
+        "qty": 3875.08
+      },
+      "JELLYJELLY_USDT": {
+        "contractSize": 10.0,
+        "notional": 173939.27,
+        "qty": 4364850.0
+      },
+      "JNJ_USDT": {
+        "contractSize": 0.001,
+        "notional": 112650.46,
+        "qty": 413.093
+      },
+      "JOE_USDT": {
+        "contractSize": 1.0,
+        "notional": 133005.69,
+        "qty": 6354787.0
+      },
+      "JP225_USDT": {
+        "contractSize": 1e-05,
+        "notional": 53584.17,
+        "qty": 0.91032
+      },
+      "JPM_USDT": {
+        "contractSize": 0.001,
+        "notional": 108264.46,
+        "qty": 336.989
+      },
+      "JPY_USDT": {
+        "contractSize": 100.0,
+        "notional": 100992.16,
+        "qty": 16099500.0
+      },
+      "JST_USDT": {
+        "contractSize": 10.0,
+        "notional": 182723.04,
+        "qty": 1273420.0
+      },
+      "JTO_USDT": {
+        "contractSize": 1.0,
+        "notional": 141495.4,
+        "qty": 597027.0
+      },
+      "JUP_USDT": {
+        "contractSize": 1.0,
+        "notional": 148187.49,
+        "qty": 596568.0
+      },
+      "KAIA_USDT": {
+        "contractSize": 10.0,
+        "notional": 102511.58,
+        "qty": 3559430.0
+      },
+      "KAITO_USDT": {
+        "contractSize": 1.0,
+        "notional": 115113.97,
+        "qty": 733210.0
+      },
+      "KAS_USDT": {
+        "contractSize": 10.0,
+        "notional": 197587.42,
+        "qty": 7293740.0
+      },
+      "KAT_USDT": {
+        "contractSize": 10.0,
+        "notional": 107488.9,
+        "qty": 34297670.0
+      },
+      "KAVA_USDT": {
+        "contractSize": 1.0,
+        "notional": 211613.06,
+        "qty": 8440888.0
+      },
+      "KERNEL_USDT": {
+        "contractSize": 1.0,
+        "notional": 134003.01,
+        "qty": 3087627.0
+      },
+      "KGEN_USDT": {
+        "contractSize": 1.0,
+        "notional": 124851.79,
+        "qty": 1425737.0
+      },
+      "KII_USDT": {
+        "contractSize": 1.0,
+        "notional": 129047.07,
+        "qty": 1523758.0
+      },
+      "KITE_USDT": {
+        "contractSize": 10.0,
+        "notional": 206628.79,
+        "qty": 1443140.0
+      },
+      "KMNO_USDT": {
+        "contractSize": 10.0,
+        "notional": 140698.05,
+        "qty": 5855100.0
+      },
+      "KNC_USDT": {
+        "contractSize": 1.0,
+        "notional": 176833.63,
+        "qty": 1842017.0
+      },
+      "KODEX200_USDT": {
+        "contractSize": 0.01,
+        "notional": 127965.67,
+        "qty": 2223.17
+      },
+      "KORU_USDT": {
+        "contractSize": 0.001,
+        "notional": 156497.98,
+        "qty": 26048.266
+      },
+      "KOX_USDT": {
+        "contractSize": 0.01,
+        "notional": 149904.62,
+        "qty": 1542.07
+      },
+      "KSM_USDT": {
+        "contractSize": 0.1,
+        "notional": 150098.61,
+        "qty": 56791.0
+      },
+      "KSTR_USDT": {
+        "contractSize": 0.1,
+        "notional": 111189.9,
+        "qty": 5852.1
+      },
+      "KUAISHOU_USDT": {
+        "contractSize": 0.1,
+        "notional": 133419.94,
+        "qty": 48270.6
+      },
+      "LAB_USDT": {
+        "contractSize": 1.0,
+        "notional": 164166.14,
+        "qty": 5228221.0
+      },
+      "LAYER_USDT": {
+        "contractSize": 1.0,
+        "notional": 165378.38,
+        "qty": 3467052.0
+      },
+      "LA_USDT": {
+        "contractSize": 1.0,
+        "notional": 105308.53,
+        "qty": 2479598.0
+      },
+      "LDO_USDT": {
+        "contractSize": 1.0,
+        "notional": 167507.6,
+        "qty": 694764.0
+      },
+      "LGELECTRONICS_USDT": {
+        "contractSize": 0.01,
+        "notional": 118704.88,
+        "qty": 1075.81
+      },
+      "LIGHT_USDT": {
+        "contractSize": 1.0,
+        "notional": 145258.75,
+        "qty": 715913.0
+      },
+      "LINEA_USDT": {
+        "contractSize": 10.0,
+        "notional": 103712.08,
+        "qty": 61404430.0
+      },
+      "LINK_USDT": {
+        "contractSize": 0.1,
+        "notional": 589407.39,
+        "qty": 61281.7
+      },
+      "LISTA_USDT": {
+        "contractSize": 10.0,
+        "notional": 191044.22,
+        "qty": 1877400.0
+      },
+      "LITE_USDT": {
+        "contractSize": 0.001,
+        "notional": 158160.52,
+        "qty": 303.997
+      },
+      "LIT_USDT": {
+        "contractSize": 1.0,
+        "notional": 215421.04,
+        "qty": 79374.0
+      },
+      "LLY_USDT": {
+        "contractSize": 0.001,
+        "notional": 264478.46,
+        "qty": 188.839
+      },
+      "LONGXIA_USDT": {
+        "contractSize": 100.0,
+        "notional": 141455.81,
+        "qty": 9675500.0
+      },
+      "LPT_USDT": {
+        "contractSize": 0.1,
+        "notional": 163036.25,
+        "qty": 148620.1
+      },
+      "LSK_USDT": {
+        "contractSize": 1.0,
+        "notional": 169673.38,
+        "qty": 1181076.0
+      },
+      "LTC_USDT": {
+        "contractSize": 0.01,
+        "notional": 236346.61,
+        "qty": 5306.39
+      },
+      "LT_USDT": {
+        "contractSize": 0.01,
+        "notional": 113449.27,
+        "qty": 2557.41
+      },
+      "LUMIA_USDT": {
+        "contractSize": 1.0,
+        "notional": 136422.26,
+        "qty": 2139957.0
+      },
+      "LUNA_USDT": {
+        "contractSize": 1.0,
+        "notional": 142459.22,
+        "qty": 4394177.0
+      },
+      "LYTE_USDT": {
+        "contractSize": 0.1,
+        "notional": 119885.47,
+        "qty": 8094.9
+      },
+      "MAGIC_USDT": {
+        "contractSize": 10.0,
+        "notional": 167880.32,
+        "qty": 2409650.0
+      },
+      "MAGMA_USDT": {
+        "contractSize": 1.0,
+        "notional": 137682.12,
+        "qty": 530751.0
+      },
+      "MANA_USDT": {
+        "contractSize": 1.0,
+        "notional": 132563.23,
+        "qty": 2275373.0
+      },
+      "MANTA_USDT": {
+        "contractSize": 1.0,
+        "notional": 115013.15,
+        "qty": 3209968.0
+      },
+      "MARA_USDT": {
+        "contractSize": 0.1,
+        "notional": 126493.75,
+        "qty": 21979.8
+      },
+      "MARSCOIN_USDT": {
+        "contractSize": 10.0,
+        "notional": 161638.38,
+        "qty": 5141170.0
+      },
+      "MASK_USDT": {
+        "contractSize": 1.0,
+        "notional": 102427.58,
+        "qty": 362319.0
+      },
+      "MAV_USDT": {
+        "contractSize": 1.0,
+        "notional": 109745.16,
+        "qty": 16215301.0
+      },
+      "MA_USDT": {
+        "contractSize": 0.001,
+        "notional": 118938.54,
+        "qty": 180.311
+      },
+      "MCD_USDT": {
+        "contractSize": 0.01,
+        "notional": 200088.03,
+        "qty": 706.85
+      },
+      "MDB_USDT": {
+        "contractSize": 0.001,
+        "notional": 108826.3,
+        "qty": 332.426
+      },
+      "MDT_USDT": {
+        "contractSize": 0.01,
+        "notional": 123004.99,
+        "qty": 1276.78
+      },
+      "MEDIATEK_USDT": {
+        "contractSize": 0.001,
+        "notional": 132210.31,
+        "qty": 1187.34
+      },
+      "MEGA_USDT": {
+        "contractSize": 1.0,
+        "notional": 139132.3,
+        "qty": 3446428.0
+      },
+      "MEITUAN_USDT": {
+        "contractSize": 0.1,
+        "notional": 101156.78,
+        "qty": 11293.6
+      },
+      "MELANIA_USDT": {
+        "contractSize": 0.1,
+        "notional": 119177.1,
+        "qty": 2478725.1
+      },
+      "MELI_USDT": {
+        "contractSize": 0.0001,
+        "notional": 116387.47,
+        "qty": 75.678
+      },
+      "MEME_USDT": {
+        "contractSize": 100.0,
+        "notional": 156501.52,
+        "qty": 526232400.0
+      },
+      "MERL_USDT": {
+        "contractSize": 10.0,
+        "notional": 190337.98,
+        "qty": 6984880.0
+      },
+      "META_USDT": {
+        "contractSize": 0.001,
+        "notional": 191192.89,
+        "qty": 304.147
+      },
+      "METIS_USDT": {
+        "contractSize": 0.1,
+        "notional": 113161.77,
+        "qty": 49939.0
+      },
+      "MET_USDT": {
+        "contractSize": 1.0,
+        "notional": 137790.93,
+        "qty": 668888.0
+      },
+      "MEW_USDT": {
+        "contractSize": 1000.0,
+        "notional": 102803.44,
+        "qty": 338058000.0
+      },
+      "ME_USDT": {
+        "contractSize": 1.0,
+        "notional": 132191.33,
+        "qty": 3295720.0
+      },
+      "MINA_USDT": {
+        "contractSize": 1.0,
+        "notional": 189442.31,
+        "qty": 4355997.0
+      },
+      "MINIMAX_USDT": {
+        "contractSize": 0.01,
+        "notional": 167654.82,
+        "qty": 11823.33
+      },
+      "MIRA_USDT": {
+        "contractSize": 1.0,
+        "notional": 101804.74,
+        "qty": 3214548.0
+      },
+      "MMT_USDT": {
+        "contractSize": 1.0,
+        "notional": 194167.51,
+        "qty": 1108895.0
+      },
+      "MNT_USDT": {
+        "contractSize": 1.0,
+        "notional": 184055.75,
+        "qty": 477323.0
+      },
+      "MOCA_USDT": {
+        "contractSize": 10.0,
+        "notional": 130198.31,
+        "qty": 21911530.0
+      },
+      "MON_USDT": {
+        "contractSize": 10.0,
+        "notional": 141648.37,
+        "qty": 13287840.0
+      },
+      "MOODENG_USDT": {
+        "contractSize": 10.0,
+        "notional": 131479.92,
+        "qty": 4597200.0
+      },
+      "MOONSHOT_USDT": {
+        "contractSize": 0.01,
+        "notional": 92548.65,
+        "qty": 1751.82
+      },
+      "MORPHO_USDT": {
+        "contractSize": 1.0,
+        "notional": 140409.65,
+        "qty": 84234.0
+      },
+      "MOVE_USDT": {
+        "contractSize": 1.0,
+        "notional": 139932.76,
+        "qty": 25704034.0
+      },
+      "MOVR_USDT": {
+        "contractSize": 0.1,
+        "notional": 175009.14,
+        "qty": 202744.6
+      },
+      "MP_USDT": {
+        "contractSize": 0.01,
+        "notional": 103287.51,
+        "qty": 2809.78
+      },
+      "MRK_USDT": {
+        "contractSize": 0.01,
+        "notional": 113498.49,
+        "qty": 802.62
+      },
+      "MRNA_USDT": {
+        "contractSize": 0.001,
+        "notional": 176109.86,
+        "qty": 765.329
+      },
+      "MRVL_USDT": {
+        "contractSize": 0.01,
+        "notional": 147633.95,
+        "qty": 1048.76
+      },
+      "MSFT_USDT": {
+        "contractSize": 0.001,
+        "notional": 164901.84,
+        "qty": 328.189
+      },
+      "MSTR_USDT": {
+        "contractSize": 0.01,
+        "notional": 142229.17,
+        "qty": 1675.65
+      },
+      "MSTU_USDT": {
+        "contractSize": 0.01,
+        "notional": 163974.82,
+        "qty": 15766.81
+      },
+      "MTL_USDT": {
+        "contractSize": 1.0,
+        "notional": 133095.51,
+        "qty": 627809.0
+      },
+      "MUBARAK_USDT": {
+        "contractSize": 100.0,
+        "notional": 165362.76,
+        "qty": 7118500.0
+      },
+      "MUU_USDT": {
+        "contractSize": 0.1,
+        "notional": 110425.96,
+        "qty": 10349.2
+      },
+      "MU_USDT": {
+        "contractSize": 0.001,
+        "notional": 212776.85,
+        "qty": 331.263
+      },
+      "MYX_USDT": {
+        "contractSize": 10.0,
+        "notional": 165978.1,
+        "qty": 4566110.0
+      },
+      "M_USDT": {
+        "contractSize": 1.0,
+        "notional": 192790.19,
+        "qty": 230005.0
+      },
+      "NANYA_USDT": {
+        "contractSize": 0.01,
+        "notional": 122969.15,
+        "qty": 13305.47
+      },
+      "NAORIS_USDT": {
+        "contractSize": 10.0,
+        "notional": 111821.6,
+        "qty": 3898940.0
+      },
+      "NAS100_USDT": {
+        "contractSize": 0.0001,
+        "notional": 191321.59,
+        "qty": 7.1378
+      },
+      "NATGAS_USDT": {
+        "contractSize": 0.1,
+        "notional": 161135.17,
+        "qty": 44797.1
+      },
+      "NAVER_USDT": {
+        "contractSize": 0.01,
+        "notional": 107143.57,
+        "qty": 874.57
+      },
+      "NBIS_USDT": {
+        "contractSize": 0.001,
+        "notional": 117074.29,
+        "qty": 1254.95
+      },
+      "NEAR_USDT": {
+        "contractSize": 1.0,
+        "notional": 401802.67,
+        "qty": 129197.0
+      },
+      "NEIROCTO_USDT": {
+        "contractSize": 10000.0,
+        "notional": 98629.06,
+        "qty": 2072910000.0
+      },
+      "NEO_USDT": {
+        "contractSize": 0.1,
+        "notional": 191819.31,
+        "qty": 119662.7
+      },
+      "NES_USDT": {
+        "contractSize": 1.0,
+        "notional": 141777.13,
+        "qty": 551233.0
+      },
+      "NET_USDT": {
+        "contractSize": 0.01,
+        "notional": 163454.55,
+        "qty": 550.76
+      },
+      "NEWT_USDT": {
+        "contractSize": 1.0,
+        "notional": 113274.93,
+        "qty": 3190843.0
+      },
+      "NFLX_USDT": {
+        "contractSize": 0.001,
+        "notional": 147535.25,
+        "qty": 2454.421
+      },
+      "NIGHT_USDT": {
+        "contractSize": 10.0,
+        "notional": 160054.74,
+        "qty": 3255130.0
+      },
+      "NIL_USDT": {
+        "contractSize": 1.0,
+        "notional": 123496.12,
+        "qty": 2685866.0
+      },
+      "NIO_USDT": {
+        "contractSize": 0.1,
+        "notional": 134814.17,
+        "qty": 47486.5
+      },
+      "NIULAI_USDT": {
+        "contractSize": 10.0,
+        "notional": 149291.46,
+        "qty": 3143640.0
+      },
+      "NKE_USDT": {
+        "contractSize": 0.01,
+        "notional": 152592.7,
+        "qty": 4117.45
+      },
+      "NMR_USDT": {
+        "contractSize": 0.1,
+        "notional": 118650.79,
+        "qty": 15971.3
+      },
+      "NOK_USDT": {
+        "contractSize": 0.1,
+        "notional": 155184.08,
+        "qty": 20595.1
+      },
+      "NOT_USDT": {
+        "contractSize": 1000.0,
+        "notional": 191947.33,
+        "qty": 646505000.0
+      },
+      "NOW_USDT": {
+        "contractSize": 0.01,
+        "notional": 125890.51,
+        "qty": 1328.8
+      },
+      "NU_USDT": {
+        "contractSize": 0.01,
+        "notional": 119149.1,
+        "qty": 8965.32
+      },
+      "NVDA_USDT": {
+        "contractSize": 0.01,
+        "notional": 68435.96,
+        "qty": 437.71
+      },
+      "NVDL_USDT": {
+        "contractSize": 0.01,
+        "notional": 203927.33,
+        "qty": 13788.19
+      },
+      "NVO_USDT": {
+        "contractSize": 0.01,
+        "notional": 119996.37,
+        "qty": 2942.53
+      },
+      "NXPC_USDT": {
+        "contractSize": 1.0,
+        "notional": 125220.12,
+        "qty": 940091.0
+      },
+      "OGN_USDT": {
+        "contractSize": 1.0,
+        "notional": 116377.01,
+        "qty": 5968052.0
+      },
+      "OG_USDT": {
+        "contractSize": 0.1,
+        "notional": 110349.72,
+        "qty": 62985.0
+      },
+      "OKB_USDT": {
+        "contractSize": 0.01,
+        "notional": 143265.8,
+        "qty": 1701.09
+      },
+      "OKLO_USDT": {
+        "contractSize": 0.01,
+        "notional": 118580.87,
+        "qty": 5753.56
+      },
+      "ONDO_USDT": {
+        "contractSize": 10.0,
+        "notional": 191919.13,
+        "qty": 646410.0
+      },
+      "ONDS_USDT": {
+        "contractSize": 0.1,
+        "notional": 127567.67,
+        "qty": 30918.0
+      },
+      "ONE_USDT": {
+        "contractSize": 100.0,
+        "notional": 229150.69,
+        "qty": 216159500.0
+      },
+      "ONG_USDT": {
+        "contractSize": 1.0,
+        "notional": 116842.58,
+        "qty": 2121325.0
+      },
+      "ONT_USDT": {
+        "contractSize": 10.0,
+        "notional": 125524.58,
+        "qty": 3502360.0
+      },
+      "ON_USDT": {
+        "contractSize": 10.0,
+        "notional": 115193.67,
+        "qty": 1158890.0
+      },
+      "OPENAI_USDT": {
+        "contractSize": 0.001,
+        "notional": 147474.08,
+        "qty": 119.223
+      },
+      "OPEN_USDT": {
+        "contractSize": 1.0,
+        "notional": 131122.88,
+        "qty": 1639036.0
+      },
+      "OPG_USDT": {
+        "contractSize": 1.0,
+        "notional": 143872.29,
+        "qty": 852324.0
+      },
+      "OPN_USDT": {
+        "contractSize": 1.0,
+        "notional": 121839.23,
+        "qty": 3645698.0
+      },
+      "OP_USDT": {
+        "contractSize": 1.0,
+        "notional": 403468.56,
+        "qty": 5581250.0
+      },
+      "ORCA_USDT": {
+        "contractSize": 1.0,
+        "notional": 149004.29,
+        "qty": 121339.0
+      },
+      "ORCL_USDT": {
+        "contractSize": 0.01,
+        "notional": 154313.68,
+        "qty": 1408.1
+      },
+      "ORDER_USDT": {
+        "contractSize": 1.0,
+        "notional": 118892.4,
+        "qty": 4459580.0
+      },
+      "ORDI_USDT": {
+        "contractSize": 0.1,
+        "notional": 193502.24,
+        "qty": 71429.4
+      },
+      "OURA_USDT": {
+        "contractSize": 0.01,
+        "notional": 117834.75,
+        "qty": 2437.12
+      },
+      "OUST_USDT": {
+        "contractSize": 0.01,
+        "notional": 116452.58,
+        "qty": 4290.81
+      },
+      "O_USDT": {
+        "contractSize": 1.0,
+        "notional": 137691.71,
+        "qty": 211216.0
+      },
+      "PANW_USDT": {
+        "contractSize": 0.01,
+        "notional": 135513.26,
+        "qty": 373.84
+      },
+      "PARTI_USDT": {
+        "contractSize": 1.0,
+        "notional": 140378.76,
+        "qty": 3873586.0
+      },
+      "PATH_USDT": {
+        "contractSize": 0.1,
+        "notional": 111830.11,
+        "qty": 8750.4
+      },
+      "PAXG_USDT": {
+        "contractSize": 0.001,
+        "notional": 364407.23,
+        "qty": 99.426
+      },
+      "PAYP_USDT": {
+        "contractSize": 0.1,
+        "notional": 128913.1,
+        "qty": 9670.9
+      },
+      "PDD_USDT": {
+        "contractSize": 0.01,
+        "notional": 182138.41,
+        "qty": 2016.59
+      },
+      "PEAQ_USDT": {
+        "contractSize": 10.0,
+        "notional": 114165.63,
+        "qty": 5660170.0
+      },
+      "PENDLE_USDT": {
+        "contractSize": 1.0,
+        "notional": 156303.06,
+        "qty": 127055.0
+      },
+      "PENGU_USDT": {
+        "contractSize": 10.0,
+        "notional": 165613.83,
+        "qty": 36543210.0
+      },
+      "PENG_USDT": {
+        "contractSize": 0.01,
+        "notional": 112850.68,
+        "qty": 2834.02
+      },
+      "PEOPLE_USDT": {
+        "contractSize": 100.0,
+        "notional": 191097.81,
+        "qty": 38403900.0
+      },
+      "PFE_USDT": {
+        "contractSize": 0.01,
+        "notional": 194525.45,
+        "qty": 6827.85
+      },
+      "PHA_USDT": {
+        "contractSize": 0.1,
+        "notional": 150980.62,
+        "qty": 4953432.5
+      },
+      "PIEVERSE_USDT": {
+        "contractSize": 1.0,
+        "notional": 218920.11,
+        "qty": 54474.0
+      },
+      "PIPPIN_USDT": {
+        "contractSize": 10.0,
+        "notional": 142801.42,
+        "qty": 7698190.0
+      },
+      "PIXEL_USDT": {
+        "contractSize": 1.0,
+        "notional": 115284.81,
+        "qty": 38987085.0
+      },
+      "PI_USDT": {
+        "contractSize": 1.0,
+        "notional": 176070.82,
+        "qty": 3279397.0
+      },
+      "PLAY_USDT": {
+        "contractSize": 10.0,
+        "notional": 149234.75,
+        "qty": 21562600.0
+      },
+      "PLTR_USDT": {
+        "contractSize": 0.01,
+        "notional": 122111.39,
+        "qty": 717.88
+      },
+      "PLUME_USDT": {
+        "contractSize": 1.0,
+        "notional": 107273.02,
+        "qty": 9886914.0
+      },
+      "PNUT_USDT": {
+        "contractSize": 10.0,
+        "notional": 119580.81,
+        "qty": 4359490.0
+      },
+      "POLYMARKET_USDT": {
+        "contractSize": 0.01,
+        "notional": 144284.89,
+        "qty": 6087.97
+      },
+      "POLYX_USDT": {
+        "contractSize": 1.0,
+        "notional": 121867.32,
+        "qty": 4527018.0
+      },
+      "POL_USDT": {
+        "contractSize": 1.0,
+        "notional": 168884.05,
+        "qty": 2148652.0
+      },
+      "PONS_USDT": {
+        "contractSize": 10.0,
+        "notional": 179412.29,
+        "qty": 1649010.0
+      },
+      "POPCAT_USDT": {
+        "contractSize": 1.0,
+        "notional": 129380.72,
+        "qty": 4664049.0
+      },
+      "POPMART_USDT": {
+        "contractSize": 0.1,
+        "notional": 170083.0,
+        "qty": 9470.1
+      },
+      "PORTAL_USDT": {
+        "contractSize": 10.0,
+        "notional": 142876.22,
+        "qty": 11540890.0
+      },
+      "POWER_USDT": {
+        "contractSize": 1.0,
+        "notional": 145194.57,
+        "qty": 2612823.0
+      },
+      "POWR_USDT": {
+        "contractSize": 1.0,
+        "notional": 124167.59,
+        "qty": 3053802.0
+      },
+      "PREDICT_USDT": {
+        "contractSize": 0.1,
+        "notional": 178570.3,
+        "qty": 163976.4
+      },
+      "PRL_USDT": {
+        "contractSize": 0.1,
+        "notional": 79955.12,
+        "qty": 44161.9
+      },
+      "PROM_USDT": {
+        "contractSize": 1.0,
+        "notional": 113414.56,
+        "qty": 24427.0
+      },
+      "PROS_USDT": {
+        "contractSize": 10.0,
+        "notional": 168035.53,
+        "qty": 234490.0
+      },
+      "PROVE_USDT": {
+        "contractSize": 1.0,
+        "notional": 117710.04,
+        "qty": 859825.0
+      },
+      "PUMPFUN_USDT": {
+        "contractSize": 100.0,
+        "notional": 221712.3,
+        "qty": 83444600.0
+      },
+      "PUNDIX_USDT": {
+        "contractSize": 1.0,
+        "notional": 113977.36,
+        "qty": 1480610.0
+      },
+      "PYTH_USDT": {
+        "contractSize": 10.0,
+        "notional": 203766.36,
+        "qty": 4033380.0
+      },
+      "QCOM_USDT": {
+        "contractSize": 0.01,
+        "notional": 126807.48,
+        "qty": 724.49
+      },
+      "QNTX_USDT": {
+        "contractSize": 0.01,
+        "notional": 139149.98,
+        "qty": 4101.09
+      },
+      "QNT_USDT": {
+        "contractSize": 0.01,
+        "notional": 142458.14,
+        "qty": 946.0
+      },
+      "QQQ_USDT": {
+        "contractSize": 0.001,
+        "notional": 166560.95,
+        "qty": 255.086
+      },
+      "QTUM_USDT": {
+        "contractSize": 1.0,
+        "notional": 137663.44,
+        "qty": 213531.0
+      },
+      "Q_USDT": {
+        "contractSize": 100.0,
+        "notional": 146441.36,
+        "qty": 5715900.0
+      },
+      "RAM_USDT": {
+        "contractSize": 0.1,
+        "notional": 127678.77,
+        "qty": 30241.3
+      },
+      "RARE_USDT": {
+        "contractSize": 10.0,
+        "notional": 184531.99,
+        "qty": 15880550.0
+      },
+      "RAVE_USDT": {
+        "contractSize": 1.0,
+        "notional": 146870.68,
+        "qty": 1267219.0
+      },
+      "RAY_USDT": {
+        "contractSize": 1.0,
+        "notional": 139603.84,
+        "qty": 103841.0
+      },
+      "RDDT_USDT": {
+        "contractSize": 0.01,
+        "notional": 121853.19,
+        "qty": 1273.15
+      },
+      "RDW_USDT": {
+        "contractSize": 0.1,
+        "notional": 120966.62,
+        "qty": 19296.0
+      },
+      "RECALL_USDT": {
+        "contractSize": 1.0,
+        "notional": 100098.18,
+        "qty": 4440913.0
+      },
+      "RED_USDT": {
+        "contractSize": 1.0,
+        "notional": 108987.02,
+        "qty": 1036984.0
+      },
+      "RELIANCE_USDT": {
+        "contractSize": 0.01,
+        "notional": 120095.96,
+        "qty": 8063.92
+      },
+      "RENDER_USDT": {
+        "contractSize": 0.1,
+        "notional": 130659.69,
+        "qty": 96073.3
+      },
+      "RESOLV_USDT": {
+        "contractSize": 1.0,
+        "notional": 144166.65,
+        "qty": 10484847.0
+      },
+      "REZ_USDT": {
+        "contractSize": 10.0,
+        "notional": 137117.83,
+        "qty": 55648470.0
+      },
+      "RE_USDT": {
+        "contractSize": 1.0,
+        "notional": 155007.06,
+        "qty": 727050.0
+      },
+      "RIF_USDT": {
+        "contractSize": 10.0,
+        "notional": 143151.0,
+        "qty": 3222670.0
+      },
+      "RIVER_USDT": {
+        "contractSize": 1.0,
+        "notional": 186303.96,
+        "qty": 334778.0
+      },
+      "RIVN_USDT": {
+        "contractSize": 0.1,
+        "notional": 123449.23,
+        "qty": 10168.8
+      },
+      "RKLB_USDT": {
+        "contractSize": 0.01,
+        "notional": 117371.1,
+        "qty": 2323.26
+      },
+      "RLC_USDT": {
+        "contractSize": 1.0,
+        "notional": 141451.44,
+        "qty": 447348.0
+      },
+      "ROBO_USDT": {
+        "contractSize": 10.0,
+        "notional": 112310.68,
+        "qty": 36476350.0
+      },
+      "RON_USDT": {
+        "contractSize": 1.0,
+        "notional": 130972.54,
+        "qty": 3642173.0
+      },
+      "ROSE_USDT": {
+        "contractSize": 10.0,
+        "notional": 128670.07,
+        "qty": 29097710.0
+      },
+      "RPL_USDT": {
+        "contractSize": 0.1,
+        "notional": 124985.33,
+        "qty": 96439.3
+      },
+      "RSR_USDT": {
+        "contractSize": 1000.0,
+        "notional": 143626.61,
+        "qty": 110823000.0
+      },
+      "RUM_USDT": {
+        "contractSize": 0.1,
+        "notional": 113349.32,
+        "qty": 30726.3
+      },
+      "RUNE_USDT": {
+        "contractSize": 1.0,
+        "notional": 187000.08,
+        "qty": 320480.0
+      },
+      "RVN_USDT": {
+        "contractSize": 10.0,
+        "notional": 102887.0,
+        "qty": 117854530.0
+      },
+      "SAFE_USDT": {
+        "contractSize": 1.0,
+        "notional": 147398.77,
+        "qty": 1801941.0
+      },
+      "SAGA_USDT": {
+        "contractSize": 0.1,
+        "notional": 154444.09,
+        "qty": 10449532.8
+      },
+      "SAHARA_USDT": {
+        "contractSize": 1.0,
+        "notional": 159431.56,
+        "qty": 30921559.0
+      },
+      "SAMSUNGEM_USDT": {
+        "contractSize": 0.001,
+        "notional": 120825.7,
+        "qty": 195.337
+      },
+      "SAND_USDT": {
+        "contractSize": 1.0,
+        "notional": 145464.54,
+        "qty": 4186030.0
+      },
+      "SAPIEN_USDT": {
+        "contractSize": 1.0,
+        "notional": 159715.47,
+        "qty": 4118501.0
+      },
+      "SATS_USDT": {
+        "contractSize": 10000000.0,
+        "notional": 118318.21,
+        "qty": 15913680000000.0
+      },
+      "SECZ_USDT": {
+        "contractSize": 0.01,
+        "notional": 155012.4,
+        "qty": 21404.64
+      },
+      "SEI_USDT": {
+        "contractSize": 10.0,
+        "notional": 137375.58,
+        "qty": 3517040.0
+      },
+      "SENT_USDT": {
+        "contractSize": 10.0,
+        "notional": 128424.03,
+        "qty": 5717900.0
+      },
+      "SFP_USDT": {
+        "contractSize": 1.0,
+        "notional": 117520.92,
+        "qty": 677354.0
+      },
+      "SHEIN_USDT": {
+        "contractSize": 0.1,
+        "notional": 118853.21,
+        "qty": 26612.9
+      },
+      "SHELL_USDT": {
+        "contractSize": 1.0,
+        "notional": 176746.17,
+        "qty": 6481341.0
+      },
+      "SHIB_USDT": {
+        "contractSize": 100000.0,
+        "notional": 166252.24,
+        "qty": 44872400000.0
+      },
+      "SHOP_USDT": {
+        "contractSize": 0.01,
+        "notional": 106193.79,
+        "qty": 763.38
+      },
+      "SIGN_USDT": {
+        "contractSize": 10.0,
+        "notional": 180520.89,
+        "qty": 20478830.0
+      },
+      "SILVER_USDT": {
+        "contractSize": 0.1,
+        "notional": 383802.59,
+        "qty": 8609.3
+      },
+      "SIREN_USDT": {
+        "contractSize": 10.0,
+        "notional": 178269.42,
+        "qty": 7122230.0
+      },
+      "SKDD_USDT": {
+        "contractSize": 0.1,
+        "notional": 134341.19,
+        "qty": 13454.3
+      },
+      "SKHYNIX_USDT": {
+        "contractSize": 0.001,
+        "notional": 294858.84,
+        "qty": 354.679
+      },
+      "SKHY_USDT": {
+        "contractSize": 0.01,
+        "notional": 154150.4,
+        "qty": 1306.47
+      },
+      "SKL_USDT": {
+        "contractSize": 10.0,
+        "notional": 111859.18,
+        "qty": 39235070.0
+      },
+      "SKR_USDT": {
+        "contractSize": 100.0,
+        "notional": 184473.93,
+        "qty": 19814600.0
+      },
+      "SKUU_USDT": {
+        "contractSize": 0.1,
+        "notional": 130531.15,
+        "qty": 13754.6
+      },
+      "SKYAI_USDT": {
+        "contractSize": 10.0,
+        "notional": 131685.65,
+        "qty": 3891420.0
+      },
+      "SKY_USDT": {
+        "contractSize": 10.0,
+        "notional": 142884.7,
+        "qty": 3040100.0
+      },
+      "SLP_USDT": {
+        "contractSize": 1.0,
+        "notional": 134776.99,
+        "qty": 315858884.0
+      },
+      "SLX_USDT": {
+        "contractSize": 10.0,
+        "notional": 175251.6,
+        "qty": 5177300.0
+      },
+      "SMR_USDT": {
+        "contractSize": 0.1,
+        "notional": 107730.14,
+        "qty": 31389.9
+      },
+      "SMSN_USDT": {
+        "contractSize": 0.01,
+        "notional": 192574.06,
+        "qty": 1430.82
+      },
+      "SNDK_USDT": {
+        "contractSize": 0.001,
+        "notional": 172105.17,
+        "qty": 2136.095
+      },
+      "SNOW_USDT": {
+        "contractSize": 0.01,
+        "notional": 138515.08,
+        "qty": 500.47
+      },
+      "SNPS_USDT": {
+        "contractSize": 0.001,
+        "notional": 100158.79,
+        "qty": 239.643
+      },
+      "SNXX_USDT": {
+        "contractSize": 0.1,
+        "notional": 154195.83,
+        "qty": 89337.1
+      },
+      "SNX_USDT": {
+        "contractSize": 1.0,
+        "notional": 154259.25,
+        "qty": 1055847.0
+      },
+      "SOLV_USDT": {
+        "contractSize": 10.0,
+        "notional": 182973.92,
+        "qty": 43492730.0
+      },
+      "SOL_USDT": {
+        "contractSize": 0.01,
+        "notional": 1248602.15,
+        "qty": 17036.46
+      },
+      "SOMI_USDT": {
+        "contractSize": 1.0,
+        "notional": 116307.86,
+        "qty": 978199.0
+      },
+      "SONIC_USDT": {
+        "contractSize": 1.0,
+        "notional": 118142.01,
+        "qty": 6159646.0
+      },
+      "SONY_USDT": {
+        "contractSize": 0.1,
+        "notional": 126566.09,
+        "qty": 4551.1
+      },
+      "SOON_USDT": {
+        "contractSize": 1.0,
+        "notional": 107531.71,
+        "qty": 443979.0
+      },
+      "SOPH_USDT": {
+        "contractSize": 10.0,
+        "notional": 153658.63,
+        "qty": 164693070.0
+      },
+      "SOXL_USDT": {
+        "contractSize": 0.01,
+        "notional": 408521.28,
+        "qty": 11065.04
+      },
+      "SOXSX_USDT": {
+        "contractSize": 0.01,
+        "notional": 167424.17,
+        "qty": 3164.32
+      },
+      "SOXX_USDT": {
+        "contractSize": 0.001,
+        "notional": 132008.36,
+        "qty": 979.872
+      },
+      "SPACE_USDT": {
+        "contractSize": 10.0,
+        "notional": 150499.89,
+        "qty": 36317540.0
+      },
+      "SPCX_USDT": {
+        "contractSize": 0.01,
+        "notional": 244505.2,
+        "qty": 1834.11
+      },
+      "SPELL_USDT": {
+        "contractSize": 1000.0,
+        "notional": 115888.69,
+        "qty": 1918687000.0
+      },
+      "SPK_USDT": {
+        "contractSize": 10.0,
+        "notional": 137966.15,
+        "qty": 11162310.0
+      },
+      "SPOT_USDT": {
+        "contractSize": 0.001,
+        "notional": 140606.2,
+        "qty": 228.242
+      },
+      "SPX500_USDT": {
+        "contractSize": 0.0001,
+        "notional": 397367.42,
+        "qty": 54.257
+      },
+      "SPX_USDT": {
+        "contractSize": 10.0,
+        "notional": 122861.02,
+        "qty": 439260.0
+      },
+      "SPY_USDT": {
+        "contractSize": 0.001,
+        "notional": 258055.79,
+        "qty": 352.386
+      },
+      "SQD_USDT": {
+        "contractSize": 1.0,
+        "notional": 109542.52,
+        "qty": 8096269.0
+      },
+      "SQQQ_USDT": {
+        "contractSize": 0.01,
+        "notional": 98963.5,
+        "qty": 2175.5
+      },
+      "SSV_USDT": {
+        "contractSize": 0.1,
+        "notional": 213725.83,
+        "qty": 80926.1
+      },
+      "STABLE_USDT": {
+        "contractSize": 10.0,
+        "notional": 159644.03,
+        "qty": 6211830.0
+      },
+      "STBL_USDT": {
+        "contractSize": 1.0,
+        "notional": 145619.38,
+        "qty": 7041556.0
+      },
+      "STEEM_USDT": {
+        "contractSize": 1.0,
+        "notional": 119357.35,
+        "qty": 2648266.0
+      },
+      "STM_USDT": {
+        "contractSize": 0.01,
+        "notional": 121239.66,
+        "qty": 2949.87
+      },
+      "STONK_USDT": {
+        "contractSize": 1.0,
+        "notional": 161340.86,
+        "qty": 4724476.0
+      },
+      "STRC_USDT": {
+        "contractSize": 0.01,
+        "notional": 174133.54,
+        "qty": 1769.47
+      },
+      "STRK_USDT": {
+        "contractSize": 10.0,
+        "notional": 212549.25,
+        "qty": 6625600.0
+      },
+      "STXX_USDT": {
+        "contractSize": 0.001,
+        "notional": 119162.32,
+        "qty": 235.965
+      },
+      "STX_USDT": {
+        "contractSize": 1.0,
+        "notional": 190552.99,
+        "qty": 715289.0
+      },
+      "SUI_USDT": {
+        "contractSize": 1.0,
+        "notional": 227727.96,
+        "qty": 331530.0
+      },
+      "SUN_USDT": {
+        "contractSize": 10.0,
+        "notional": 133516.1,
+        "qty": 9190260.0
+      },
+      "SUPER_USDT": {
+        "contractSize": 1.0,
+        "notional": 150431.28,
+        "qty": 1253594.0
+      },
+      "SUSHI_USDT": {
+        "contractSize": 1.0,
+        "notional": 132930.77,
+        "qty": 859281.0
+      },
+      "SXT_USDT": {
+        "contractSize": 1.0,
+        "notional": 148624.59,
+        "qty": 18292257.0
+      },
+      "SYN_USDT": {
+        "contractSize": 1.0,
+        "notional": 146467.93,
+        "qty": 1299742.0
+      },
+      "SYRUP_USDT": {
+        "contractSize": 10.0,
+        "notional": 159019.12,
+        "qty": 2128770.0
+      },
+      "S_USDT": {
+        "contractSize": 1.0,
+        "notional": 114508.79,
+        "qty": 3970485.0
+      },
+      "TAC_USDT": {
+        "contractSize": 10.0,
+        "notional": 180951.46,
+        "qty": 163461120.0
+      },
+      "TAG_USDT": {
+        "contractSize": 1000.0,
+        "notional": 114525.17,
+        "qty": 251759000.0
+      },
+      "TAIKO_USDT": {
+        "contractSize": 1.0,
+        "notional": 128321.22,
+        "qty": 2061054.0
+      },
+      "TAKE_USDT": {
+        "contractSize": 10.0,
+        "notional": 165400.65,
+        "qty": 2589240.0
+      },
+      "TAO_USDT": {
+        "contractSize": 0.01,
+        "notional": 325778.69,
+        "qty": 1731.76
+      },
+      "TA_USDT": {
+        "contractSize": 1.0,
+        "notional": 148304.92,
+        "qty": 1245318.0
+      },
+      "TBT_USDT": {
+        "contractSize": 0.1,
+        "notional": 118109.9,
+        "qty": 3082.2
+      },
+      "TCS_USDT": {
+        "contractSize": 0.01,
+        "notional": 117185.93,
+        "qty": 4190.15
+      },
+      "TEAM_USDT": {
+        "contractSize": 0.01,
+        "notional": 106287.39,
+        "qty": 715.74
+      },
+      "TEM_USDT": {
+        "contractSize": 0.01,
+        "notional": 124652.49,
+        "qty": 2163.73
+      },
+      "TENCENT_USDT": {
+        "contractSize": 0.01,
+        "notional": 106403.65,
+        "qty": 2356.67
+      },
+      "THETA_USDT": {
+        "contractSize": 1.0,
+        "notional": 205643.55,
+        "qty": 1497768.0
+      },
+      "TIA_USDT": {
+        "contractSize": 0.1,
+        "notional": 253492.36,
+        "qty": 736254.3
+      },
+      "TLM_USDT": {
+        "contractSize": 10.0,
+        "notional": 189146.97,
+        "qty": 201649220.0
+      },
+      "TLT_USDT": {
+        "contractSize": 0.01,
+        "notional": 115518.96,
+        "qty": 1415.5
+      },
+      "TMF_USDT": {
+        "contractSize": 0.1,
+        "notional": 117719.93,
+        "qty": 3962.3
+      },
+      "TMO_USDT": {
+        "contractSize": 0.001,
+        "notional": 156621.58,
+        "qty": 229.738
+      },
+      "TNSR_USDT": {
+        "contractSize": 10.0,
+        "notional": 106589.25,
+        "qty": 5468920.0
+      },
+      "TOSHI_USDT": {
+        "contractSize": 10000.0,
+        "notional": 126783.64,
+        "qty": 1542380000.0
+      },
+      "TQQQ_USDT": {
+        "contractSize": 0.01,
+        "notional": 119239.19,
+        "qty": 2426.52
+      },
+      "TRADOOR_USDT": {
+        "contractSize": 1.0,
+        "notional": 158137.82,
+        "qty": 248840.0
+      },
+      "TRB_USDT": {
+        "contractSize": 0.1,
+        "notional": 210511.05,
+        "qty": 15657.2
+      },
+      "TRIA_USDT": {
+        "contractSize": 10.0,
+        "notional": 132449.46,
+        "qty": 63954350.0
+      },
+      "TRUMPSOL_USDT": {
+        "contractSize": 0.1,
+        "notional": 132033.65,
+        "qty": 151241.3
+      },
+      "TRUST_USDT": {
+        "contractSize": 1.0,
+        "notional": 147641.13,
+        "qty": 2923008.0
+      },
+      "TRUTH_USDT": {
+        "contractSize": 10.0,
+        "notional": 161951.28,
+        "qty": 10625330.0
+      },
+      "TRX_USDT": {
+        "contractSize": 1.0,
+        "notional": 212245.41,
+        "qty": 695180.0
+      },
+      "TRY_USDT": {
+        "contractSize": 100.0,
+        "notional": 352695.5,
+        "qty": 17858000.0
+      },
+      "TSLA_USDT": {
+        "contractSize": 0.01,
+        "notional": 132263.13,
+        "qty": 337.88
+      },
+      "TSLL_USDT": {
+        "contractSize": 0.1,
+        "notional": 134854.41,
+        "qty": 13278.3
+      },
+      "TSMC_USDT": {
+        "contractSize": 0.01,
+        "notional": 174346.84,
+        "qty": 2642.82
+      },
+      "TST_USDT": {
+        "contractSize": 10.0,
+        "notional": 170860.05,
+        "qty": 15805740.0
+      },
+      "TTWO_USDT": {
+        "contractSize": 0.01,
+        "notional": 149658.1,
+        "qty": 659.81
+      },
+      "TURBO_USDT": {
+        "contractSize": 100.0,
+        "notional": 144043.51,
+        "qty": 241077000.0
+      },
+      "TUT_USDT": {
+        "contractSize": 100.0,
+        "notional": 199341.53,
+        "qty": 15561400.0
+      },
+      "TWST_USDT": {
+        "contractSize": 0.001,
+        "notional": 124242.69,
+        "qty": 1088.416
+      },
+      "TWT_USDT": {
+        "contractSize": 1.0,
+        "notional": 129654.98,
+        "qty": 419324.0
+      },
+      "TZA_USDT": {
+        "contractSize": 0.01,
+        "notional": 122654.36,
+        "qty": 2518.57
+      },
+      "T_USDT": {
+        "contractSize": 10.0,
+        "notional": 118901.47,
+        "qty": 30644710.0
+      },
+      "UAI_USDT": {
+        "contractSize": 1.0,
+        "notional": 186706.92,
+        "qty": 6447062.0
+      },
+      "UBER_USDT": {
+        "contractSize": 0.01,
+        "notional": 118150.73,
+        "qty": 1750.9
+      },
+      "UB_USDT": {
+        "contractSize": 10.0,
+        "notional": 175606.75,
+        "qty": 1639040.0
+      },
+      "UMA_USDT": {
+        "contractSize": 1.0,
+        "notional": 113872.23,
+        "qty": 468996.0
+      },
+      "UNITREE_USDT": {
+        "contractSize": 0.01,
+        "notional": 148230.72,
+        "qty": 1271.93
+      },
+      "UNI_USDT": {
+        "contractSize": 1.0,
+        "notional": 283500.97,
+        "qty": 58035.0
+      },
+      "UP_USDT": {
+        "contractSize": 10.0,
+        "notional": 157640.57,
+        "qty": 794960.0
+      },
+      "US30_USDT": {
+        "contractSize": 0.0001,
+        "notional": 39946.93,
+        "qty": 0.7861
+      },
+      "USAR_USDT": {
+        "contractSize": 0.1,
+        "notional": 110146.74,
+        "qty": 15751.0
+      },
+      "USELESS_USDT": {
+        "contractSize": 1.0,
+        "notional": 151283.67,
+        "qty": 1954822.0
+      },
+      "USO_USDT": {
+        "contractSize": 1.0,
+        "notional": 329770.1,
+        "qty": 3839.0
+      },
+      "USTC_USDT": {
+        "contractSize": 100.0,
+        "notional": 160258.45,
+        "qty": 38803500.0
+      },
+      "USUAL_USDT": {
+        "contractSize": 1.0,
+        "notional": 149154.26,
+        "qty": 12865890.0
+      },
+      "US_USDT": {
+        "contractSize": 10.0,
+        "notional": 153410.62,
+        "qty": 47687480.0
+      },
+      "UVXY_USDT": {
+        "contractSize": 0.1,
+        "notional": 104855.22,
+        "qty": 4435.5
+      },
+      "VANA_USDT": {
+        "contractSize": 0.1,
+        "notional": 123018.35,
+        "qty": 210864.5
+      },
+      "VARIATIONAL_USDT": {
+        "contractSize": 0.1,
+        "notional": 7300.67,
+        "qty": 5427.2
+      },
+      "VELVET_USDT": {
+        "contractSize": 10.0,
+        "notional": 208016.02,
+        "qty": 2204260.0
+      },
+      "VET_USDT": {
+        "contractSize": 10.0,
+        "notional": 201916.33,
+        "qty": 40692530.0
+      },
+      "VIRTUAL_USDT": {
+        "contractSize": 10.0,
+        "notional": 170874.07,
+        "qty": 454090.0
+      },
+      "VKTX_USDT": {
+        "contractSize": 0.01,
+        "notional": 139234.54,
+        "qty": 4349.72
+      },
+      "VST_USDT": {
+        "contractSize": 0.01,
+        "notional": 134294.08,
+        "qty": 1068.88
+      },
+      "VTHO_USDT": {
+        "contractSize": 1000.0,
+        "notional": 119642.05,
+        "qty": 277463000.0
+      },
+      "VVV_USDT": {
+        "contractSize": 0.1,
+        "notional": 183774.02,
+        "qty": 6846.0
+      },
+      "WAL_USDT": {
+        "contractSize": 1.0,
+        "notional": 107119.14,
+        "qty": 4633181.0
+      },
+      "WAXP_USDT": {
+        "contractSize": 10.0,
+        "notional": 135918.98,
+        "qty": 38602380.0
+      },
+      "WCT_USDT": {
+        "contractSize": 1.0,
+        "notional": 120071.43,
+        "qty": 4190975.0
+      },
+      "WDC_USDT": {
+        "contractSize": 0.001,
+        "notional": 170454.19,
+        "qty": 586.822
+      },
+      "WENX_USDT": {
+        "contractSize": 0.1,
+        "notional": 182576.54,
+        "qty": 20502.7
+      },
+      "WET_USDT": {
+        "contractSize": 10.0,
+        "notional": 105583.84,
+        "qty": 2826120.0
+      },
+      "WIF_USDT": {
+        "contractSize": 10.0,
+        "notional": 160974.81,
+        "qty": 1167330.0
+      },
+      "WLD_USDT": {
+        "contractSize": 1.0,
+        "notional": 234346.26,
+        "qty": 928104.0
+      },
+      "WLFI_USDT": {
+        "contractSize": 1.0,
+        "notional": 219956.39,
+        "qty": 5309109.0
+      },
+      "WMT_USDT": {
+        "contractSize": 0.01,
+        "notional": 145683.88,
+        "qty": 1105.76
+      },
+      "WOO_USDT": {
+        "contractSize": 1.0,
+        "notional": 158918.57,
+        "qty": 18017979.0
+      },
+      "WOTAMALAILE_USDT": {
+        "contractSize": 100.0,
+        "notional": 122419.41,
+        "qty": 17981700.0
+      },
+      "W_USDT": {
+        "contractSize": 1.0,
+        "notional": 113804.91,
+        "qty": 11925486.0
+      },
+      "XAI_USDT": {
+        "contractSize": 10.0,
+        "notional": 112492.48,
+        "qty": 20652190.0
+      },
+      "XAL_USDT": {
+        "contractSize": 0.001,
+        "notional": 122640.16,
+        "qty": 42.782
+      },
+      "XAN_USDT": {
+        "contractSize": 1.0,
+        "notional": 130723.16,
+        "qty": 16180611.0
+      },
+      "XAUT_USDT": {
+        "contractSize": 0.001,
+        "notional": 548408.41,
+        "qty": 149.492
+      },
+      "XAU_USDT": {
+        "contractSize": 0.0001,
+        "notional": 563583.26,
+        "qty": 152.9556
+      },
+      "XBI_USDT": {
+        "contractSize": 0.01,
+        "notional": 113458.41,
+        "qty": 713.53
+      },
+      "XDC_USDT": {
+        "contractSize": 100.0,
+        "notional": 164285.74,
+        "qty": 6299300.0
+      },
+      "XDP_USDT": {
+        "contractSize": 10.0,
+        "notional": 105074.92,
+        "qty": 8109510.0
+      },
+      "XIAOMI_USDT": {
+        "contractSize": 0.1,
+        "notional": 144861.98,
+        "qty": 40794.7
+      },
+      "XLM_USDT": {
+        "contractSize": 10.0,
+        "notional": 165603.59,
+        "qty": 1278200.0
+      },
+      "XMR_USDT": {
+        "contractSize": 0.01,
+        "notional": 210711.52,
+        "qty": 461.53
+      },
+      "XOM_USDT": {
+        "contractSize": 0.01,
+        "notional": 149736.25,
+        "qty": 940.2
+      },
+      "XPD_USDT": {
+        "contractSize": 0.001,
+        "notional": 141921.99,
+        "qty": 153.725
+      },
+      "XPL_USDT": {
+        "contractSize": 1.0,
+        "notional": 192979.34,
+        "qty": 3950447.0
+      },
+      "XPT_USDT": {
+        "contractSize": 0.01,
+        "notional": 227083.91,
+        "qty": 165.94
+      },
+      "XRP_USDT": {
+        "contractSize": 1.0,
+        "notional": 618882.31,
+        "qty": 632804.0
+      },
+      "XTEN_USDT": {
+        "contractSize": 1.0,
+        "notional": 26321.2,
+        "qty": 178171.0
+      },
+      "XTZ_USDT": {
+        "contractSize": 1.0,
+        "notional": 124397.06,
+        "qty": 564159.0
+      },
+      "XVG_USDT": {
+        "contractSize": 1000.0,
+        "notional": 145988.09,
+        "qty": 98574000.0
+      },
+      "XVS_USDT": {
+        "contractSize": 0.1,
+        "notional": 125280.9,
+        "qty": 54351.8
+      },
+      "YB_USDT": {
+        "contractSize": 1.0,
+        "notional": 133655.32,
+        "qty": 2209544.0
+      },
+      "YFI_USDT": {
+        "contractSize": 0.001,
+        "notional": 203686.95,
+        "qty": 125.423
+      },
+      "YGG_USDT": {
+        "contractSize": 10.0,
+        "notional": 120648.0,
+        "qty": 5822780.0
+      },
+      "ZAMA_USDT": {
+        "contractSize": 10.0,
+        "notional": 155947.65,
+        "qty": 2786770.0
+      },
+      "ZBT_USDT": {
+        "contractSize": 1.0,
+        "notional": 111363.53,
+        "qty": 2139549.0
+      },
+      "ZCSH_USDT": {
+        "contractSize": 0.01,
+        "notional": 106065.65,
+        "qty": 5319.24
+      },
+      "ZEC_USDT": {
+        "contractSize": 0.1,
+        "notional": 628323.78,
+        "qty": 839.5
+      },
+      "ZEN_USDT": {
+        "contractSize": 1.0,
+        "notional": 126736.73,
+        "qty": 32893.0
+      },
+      "ZEREBRO_USDT": {
+        "contractSize": 1.0,
+        "notional": 134683.75,
+        "qty": 6545354.0
+      },
+      "ZEST_USDT": {
+        "contractSize": 10.0,
+        "notional": 165917.59,
+        "qty": 1479030.0
+      },
+      "ZETA_USDT": {
+        "contractSize": 1.0,
+        "notional": 151017.89,
+        "qty": 5062618.0
+      },
+      "ZHIPU_USDT": {
+        "contractSize": 0.001,
+        "notional": 178722.76,
+        "qty": 4012.635
+      },
+      "ZHONGJI_USDT": {
+        "contractSize": 0.01,
+        "notional": 157603.72,
+        "qty": 2037.54
+      },
+      "ZIL_USDT": {
+        "contractSize": 10.0,
+        "notional": 204098.92,
+        "qty": 228298570.0
+      },
+      "ZKC_USDT": {
+        "contractSize": 1.0,
+        "notional": 117163.94,
+        "qty": 5191136.0
+      },
+      "ZKP_USDT": {
+        "contractSize": 1.0,
+        "notional": 152257.16,
+        "qty": 5512569.0
+      },
+      "ZK_USDT": {
+        "contractSize": 10.0,
+        "notional": 162886.73,
+        "qty": 24769880.0
+      },
+      "ZORA_USDT": {
+        "contractSize": 10.0,
+        "notional": 131145.26,
+        "qty": 30655740.0
+      },
+      "ZRO_USDT": {
+        "contractSize": 1.0,
+        "notional": 211347.06,
+        "qty": 187298.0
+      },
+      "ZRX_USDT": {
+        "contractSize": 10.0,
+        "notional": 152354.58,
+        "qty": 1897790.0
+      },
+      "ZS_USDT": {
+        "contractSize": 0.01,
+        "notional": 161449.26,
+        "qty": 680.13
       }
     }
   },
